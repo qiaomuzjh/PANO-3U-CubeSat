@@ -1,0 +1,219 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ELE-403</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:1.4</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">四板器件布局图(E9/E8/E7/E2)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">90×90 四层板 · 四角 45° 切口(避导轨) · 4×Ø3.2(76×76) · 布局示意(Layout 前参考)</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">FR4 Tg150 沉金</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">4种</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">19/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ELE-403　四板器件布局图(E9/E8/E7/E2)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">90×90 四层板 · 四角 45° 切口(避导轨) · 4×Ø3.2(76×76) · 布局示意(Layout 前参考)</text>
+<polyline points="40.580,101.900 91.420,101.900 93.900,99.420 93.900,48.580 91.420,46.100 40.580,46.100 38.100,48.580 38.100,99.420 40.580,101.900" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<circle cx="42.440" cy="97.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="40.270" y1="97.560" x2="44.610" y2="97.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="42.440" y1="95.390" x2="42.440" y2="99.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="89.560" cy="97.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="87.390" y1="97.560" x2="91.730" y2="97.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="89.560" y1="95.390" x2="89.560" y2="99.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="42.440" cy="50.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="40.270" y1="50.440" x2="44.610" y2="50.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="42.440" y1="48.270" x2="42.440" y2="52.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="89.560" cy="50.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="87.390" y1="50.440" x2="91.730" y2="50.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="89.560" y1="48.270" x2="89.560" y2="52.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<rect x="64.140" y="65.320" width="3.720" height="17.360" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="59.69" y="72.30" width="12.62" height="3.60" fill="#fff" opacity="0.92"/>
+<text x="66.00" y="74.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="middle" font-weight="normal" fill="#000">J1 2×20P</text>
+<rect x="44.920" y="52.920" width="13.640" height="8.680" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="46.72" y="55.66" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="51.74" y="57.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">DRF4463</text>
+<rect x="62.280" y="54.160" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="62.78" y="55.04" width="7.68" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="66.62" y="56.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">PA 1W</text>
+<rect x="73.440" y="54.160" width="6.200" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="73.88" y="55.04" width="5.33" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="76.54" y="56.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">SAW</text>
+<rect x="82.120" y="54.160" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="83.21" y="55.04" width="6.50" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="86.46" y="56.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TCXO</text>
+<rect x="80.880" y="83.920" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="80.79" y="84.80" width="8.86" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="85.22" y="86.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">PE4259</text>
+<rect x="44.920" y="85.160" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="47.22" y="86.66" width="5.33" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="49.88" y="88.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">SMA</text>
+<text x="122.00" y="52.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">E9 UHF 通信板</text>
+<text x="122.00" y="58.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">Si4463 收发(DRF4463 成品模块)</text>
+<text x="122.00" y="62.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">+ 1W PA + SAW 滤波(437MHz);</text>
+<text x="122.00" y="67.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">GFSK 9.6/57.6 kbps,AX.25 帧;</text>
+<text x="122.00" y="71.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">SMA-KY 经 RG178 至天线座;</text>
+<text x="122.00" y="76.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">30MHz TCXO 频偏 ≤±2ppm;</text>
+<text x="122.00" y="81.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">PE4259 收发切换。</text>
+<polyline points="274.580,101.900 325.420,101.900 327.900,99.420 327.900,48.580 325.420,46.100 274.580,46.100 272.100,48.580 272.100,99.420 274.580,101.900" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<circle cx="276.440" cy="97.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="274.270" y1="97.560" x2="278.610" y2="97.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="276.440" y1="95.390" x2="276.440" y2="99.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="323.560" cy="97.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="321.390" y1="97.560" x2="325.730" y2="97.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="323.560" y1="95.390" x2="323.560" y2="99.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="276.440" cy="50.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="274.270" y1="50.440" x2="278.610" y2="50.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="276.440" y1="48.270" x2="276.440" y2="52.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="323.560" cy="50.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="321.390" y1="50.440" x2="325.730" y2="50.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="323.560" y1="48.270" x2="323.560" y2="52.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<rect x="298.140" y="65.320" width="3.720" height="17.360" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="293.69" y="72.30" width="12.62" height="3.60" fill="#fff" opacity="0.92"/>
+<text x="300.00" y="74.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="middle" font-weight="normal" fill="#000">J1 2×20P</text>
+<rect x="276.440" y="51.680" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="275.21" y="53.18" width="12.38" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="281.40" y="54.78" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">LT3652 #1</text>
+<rect x="288.220" y="51.680" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="286.99" y="53.18" width="12.38" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="293.18" y="54.78" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">LT3652 #2</text>
+<rect x="276.440" y="59.740" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="275.21" y="61.24" width="12.38" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="281.40" y="62.84" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">LT3652 #3</text>
+<rect x="288.220" y="59.740" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="286.99" y="61.24" width="12.38" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="293.18" y="62.84" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">LT3652 #4</text>
+<rect x="302.480" y="54.160" width="9.300" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="302.11" y="55.66" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="307.13" y="57.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">LTC4412</text>
+<rect x="314.880" y="52.920" width="10.540" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="314.55" y="54.42" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="320.15" y="56.02" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TPS54331</text>
+<rect x="314.880" y="62.840" width="9.300" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="313.93" y="63.72" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="319.53" y="65.32" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TLV70233</text>
+<rect x="300.000" y="84.540" width="9.920" height="5.580" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="298.89" y="85.73" width="12.13" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="304.96" y="87.33" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">INA226×4</text>
+<rect x="278.920" y="85.160" width="11.160" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="277.72" y="86.66" width="13.56" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="284.50" y="88.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TPS2553/57</text>
+<rect x="312.400" y="85.160" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="313.52" y="86.66" width="7.68" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="317.36" y="88.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">J4-J9</text>
+<text x="246.00" y="110.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">E8 EPS 电源板</text>
+<text x="246.00" y="116.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">4 路 LT3652 独立 MPPT 充电(每面 1 路);</text>
+<text x="246.00" y="120.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">LTC4412+Si2343 理想二极管汇流;</text>
+<text x="246.00" y="125.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">TPS54331 5V/3A + TLV70233 3.3V/2A;</text>
+<text x="246.00" y="129.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">支路电子保险丝:TPS2557(CM4 3A)、</text>
+<text x="246.00" y="134.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">TPS2553×3;INA226×4 电流电压遥测;</text>
+<text x="246.00" y="139.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">太阳阵输入 TVS SMBJ15A。</text>
+<polyline points="40.580,223.900 91.420,223.900 93.900,221.420 93.900,170.580 91.420,168.100 40.580,168.100 38.100,170.580 38.100,221.420 40.580,223.900" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<circle cx="42.440" cy="219.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="40.270" y1="219.560" x2="44.610" y2="219.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="42.440" y1="217.390" x2="42.440" y2="221.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="89.560" cy="219.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="87.390" y1="219.560" x2="91.730" y2="219.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="89.560" y1="217.390" x2="89.560" y2="221.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="42.440" cy="172.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="40.270" y1="172.440" x2="44.610" y2="172.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="42.440" y1="170.270" x2="42.440" y2="174.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="89.560" cy="172.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="87.390" y1="172.440" x2="91.730" y2="172.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="89.560" y1="170.270" x2="89.560" y2="174.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<rect x="64.140" y="187.320" width="3.720" height="17.360" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="59.69" y="194.30" width="12.62" height="3.60" fill="#fff" opacity="0.92"/>
+<text x="66.00" y="196.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="middle" font-weight="normal" fill="#000">J1 2×20P</text>
+<rect x="44.920" y="173.680" width="12.400" height="8.680" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="44.93" y="176.42" width="12.38" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="51.12" y="178.02" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">STM32F405</text>
+<rect x="61.040" y="174.920" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="60.36" y="175.80" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="65.38" y="177.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">W25Q128</text>
+<rect x="72.200" y="174.920" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="71.52" y="175.80" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="76.54" y="177.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TPS3823</text>
+<rect x="83.360" y="174.920" width="7.440" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="82.65" y="175.80" width="8.86" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="87.08" y="177.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">DS3231</text>
+<rect x="44.920" y="187.320" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="44.24" y="188.20" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="49.26" y="189.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">MPU9250</text>
+<rect x="44.920" y="196.000" width="9.920" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="44.28" y="196.88" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="49.88" y="198.48" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">QMC5883L</text>
+<rect x="59.800" y="207.160" width="12.400" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="59.35" y="208.66" width="13.31" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="66.00" y="210.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">DRV8837×3</text>
+<rect x="75.920" y="207.160" width="9.920" height="6.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="76.45" y="208.66" width="8.86" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="80.88" y="210.26" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">1-Wire</text>
+<text x="122.00" y="174.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">E7 OBC 主控板</text>
+<text x="122.00" y="180.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">STM32F405RGT6 主控;TPS3823 看门狗</text>
+<text x="122.00" y="184.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">(30s);DS3231 RTC + CR1220 备份;</text>
+<text x="122.00" y="189.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">W25Q128 固件/参数双备份;</text>
+<text x="122.00" y="193.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">MPU9250 九轴 + QMC5883L 磁强计</text>
+<text x="122.00" y="198.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">(远离磁力矩器 ≥40mm);</text>
+<text x="122.00" y="203.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">DRV8837×3 驱动磁力矩器线圈;</text>
+<text x="122.00" y="207.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">DS18B20×6 挂 1-Wire 总线(PC6)。</text>
+<polyline points="274.580,223.900 325.420,223.900 327.900,221.420 327.900,170.580 325.420,168.100 274.580,168.100 272.100,170.580 272.100,221.420 274.580,223.900" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<circle cx="276.440" cy="219.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="274.270" y1="219.560" x2="278.610" y2="219.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="276.440" y1="217.390" x2="276.440" y2="221.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="323.560" cy="219.560" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="321.390" y1="219.560" x2="325.730" y2="219.560" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="323.560" y1="217.390" x2="323.560" y2="221.730" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="276.440" cy="172.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="274.270" y1="172.440" x2="278.610" y2="172.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="276.440" y1="170.270" x2="276.440" y2="174.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="323.560" cy="172.440" r="0.992" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="321.390" y1="172.440" x2="325.730" y2="172.440" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="323.560" y1="170.270" x2="323.560" y2="174.610" stroke="#000055" stroke-width="0.12" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<rect x="298.140" y="187.320" width="3.720" height="17.360" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="293.69" y="194.30" width="12.62" height="3.60" fill="#fff" opacity="0.92"/>
+<text x="300.00" y="196.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="middle" font-weight="normal" fill="#000">J1 2×20P</text>
+<rect x="286.360" y="191.660" width="27.280" height="8.680" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="292.63" y="194.40" width="14.74" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="300.00" y="196.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">DF40C-100DP</text>
+<rect x="276.440" y="176.160" width="9.300" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="275.49" y="177.04" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="281.09" y="178.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">CAM0 22P</text>
+<rect x="288.220" y="176.160" width="9.300" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="287.27" y="177.04" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="292.87" y="178.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">CAM1 22P</text>
+<rect x="303.720" y="174.920" width="11.160" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="304.28" y="175.80" width="10.03" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="309.30" y="177.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">microSD</text>
+<rect x="317.360" y="176.160" width="8.680" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="316.10" y="177.04" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="321.70" y="178.64" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TPS22965</text>
+<rect x="317.360" y="186.080" width="6.200" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="317.80" y="186.96" width="5.33" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="320.46" y="188.56" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">TVS</text>
+<rect x="276.440" y="209.640" width="10.540" height="4.960" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="276.11" y="210.52" width="11.21" height="3.50" fill="#fff" opacity="0.92"/>
+<text x="281.71" y="212.12" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">nRPIBOOT</text>
+<text x="246.00" y="224.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">E2 CM4 载板</text>
+<text x="246.00" y="230.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">CM4(4GB/32GB eMMC),DF40C-100DP 座;</text>
+<text x="246.00" y="234.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">双 CSI:CAM0 4-lane + CAM1 2-lane;</text>
+<text x="246.00" y="239.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">5V/3A+TVS;TPS22965;GPIO4 同步触发;</text>
+<text x="246.00" y="243.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">导热垫→散热块→铜柱→框架散热。</text>
+</svg>

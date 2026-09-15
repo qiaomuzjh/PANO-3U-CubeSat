@@ -1,0 +1,428 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ASM-003</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:2.8</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">整星装配爆炸图(Z 向分解)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">分解顺序:±Z端板→导轨→侧板→堆栈四级→电池舱→相机模组→天线 · 球标件号见明细表</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">4/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ASM-003　整星装配爆炸图(Z 向分解)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">分解顺序:±Z端板→导轨→侧板→堆栈四级→电池舱→相机模组→天线 · 球标件号见明细表</text>
+<polygon points="90.26,103.97 97.10,114.27 95.32,114.67 88.47,104.37" fill="#eee" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="78.36,106.61 85.21,116.91 83.43,117.30 76.58,107.00" fill="#eee" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="92.787" y1="109.058" x2="89.387" y2="108.798" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="92.79" cy="109.06" r="0.5" fill="#000"/>
+<circle cx="92.79" cy="108.80" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="92.79" y="109.88" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">1</text>
+<polygon points="96.00,101.88 107.41,119.04 77.68,125.63 66.27,108.47" fill="#f2f2f2" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="96.00,102.40 96.00,101.88 66.27,108.47 66.27,108.99" fill="#e2e2e2" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="96.00,102.40 107.41,119.56 107.41,119.04 96.00,101.88" fill="#ececec" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polyline points="88.097,116.164 87.338,116.278 86.554,116.292 85.784,116.204 85.068,116.020 84.440,115.748 83.933,115.403 83.572,115.001 83.374,114.563 83.351,114.110 83.502,113.666 83.821,113.252 84.292,112.890 84.890,112.597 85.586,112.388 86.346,112.274 87.130,112.261 87.899,112.348 88.616,112.532 89.243,112.804 89.750,113.149 90.112,113.551 90.309,113.990 90.333,114.442 90.181,114.887 89.862,115.300 89.391,115.663 88.793,115.955 88.097,116.164" fill="none" stroke="#000" stroke-width="0.165" stroke-linejoin="round"/>
+<polyline points="88.097,115.644 87.338,115.758 86.554,115.772 85.784,115.684 85.068,115.500 84.440,115.228 83.933,114.883 83.572,114.481 83.374,114.043 83.351,113.590 83.502,113.146 83.821,112.732 84.292,112.370 84.890,112.077 85.586,111.868 86.346,111.754 87.130,111.741 87.899,111.828 88.616,112.012 89.243,112.284 89.750,112.629 90.112,113.031 90.309,113.470 90.333,113.922 90.181,114.367 89.862,114.780 89.391,115.143 88.793,115.435 88.097,115.644" fill="none" stroke="#000" stroke-width="0.3" stroke-linejoin="round"/>
+<line x1="88.097" y1="116.164" x2="88.097" y2="115.644" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="85.586" y1="112.388" x2="85.586" y2="111.868" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="102.742" y1="104.324" x2="109.589" y2="114.623" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="109.589" y1="114.623" x2="100.670" y2="116.599" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="100.670" y1="116.599" x2="93.823" y2="106.301" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="93.823" y1="106.301" x2="102.742" y2="104.324" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="102.742" y1="104.844" x2="102.742" y2="104.324" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="109.589" y1="115.143" x2="109.589" y2="114.623" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="93.823" y1="106.821" x2="93.823" y2="106.301" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="100.670" y1="117.119" x2="100.670" y2="116.599" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="102.742" y1="104.844" x2="109.589" y2="115.143" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="109.589" y1="115.143" x2="100.670" y2="117.119" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="100.670" y1="117.119" x2="93.823" y2="106.821" stroke="#888" stroke-width="0.15" stroke-dasharray="1.5,1" stroke-linecap="butt"/>
+<line x1="93.823" y1="106.821" x2="102.742" y2="104.844" stroke="#888" stroke-width="0.15" stroke-dasharray="1.5,1" stroke-linecap="butt"/>
+<line x1="81.347" y1="121.142" x2="77.947" y2="120.882" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="81.35" cy="121.14" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="120.88" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="121.96" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">2</text>
+<polygon points="111.16,184.55 111.33,184.81 86.66,190.28 86.49,190.02" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="111.16,267.36 111.16,184.55 86.49,190.02 86.49,272.83" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="111.16,267.36 111.33,267.62 111.33,184.81 111.16,184.55" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="102.48,230.96 95.34,232.54 95.34,221.10 102.48,219.52" fill="#ddd" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<line x1="88.505" y1="215.333" x2="95.509" y2="218.227" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="88.50" cy="215.33" r="0.5" fill="#000"/>
+<circle cx="98.91" cy="218.23" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="98.91" y="219.31" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">3</text>
+<polygon points="87.03,148.25 87.20,148.51 62.52,153.98 62.35,153.72" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="87.03,231.06 87.03,148.25 62.35,153.72 62.35,236.53" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="87.03,231.06 87.20,231.32 87.20,148.51 87.03,148.25" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="78.34,194.65 71.21,196.24 71.21,184.80 78.34,183.21" fill="#ddd" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<line x1="64.369" y1="179.031" x2="71.374" y2="181.926" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="64.37" cy="179.03" r="0.5" fill="#000"/>
+<circle cx="74.77" cy="181.93" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="74.77" y="183.01" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<polygon points="105.36,235.29 108.33,239.75 101.19,241.33 98.22,236.87" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="105.36,237.89 105.36,235.29 98.22,236.87 98.22,239.47" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="105.36,237.89 108.33,242.35 108.33,239.75 105.36,235.29" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="106.81,239.99 105.98,240.12 105.13,240.13 104.29,240.04 103.51,239.84 102.82,239.54 102.27,239.16 101.88,238.72 101.66,238.25 101.63,237.75 101.80,237.27 102.15,236.82 102.66,236.42 103.31,236.10 104.07,235.87 104.90,235.75 105.76,235.73 106.60,235.83 107.38,236.03 108.06,236.33 108.62,236.70 109.01,237.14 109.23,237.62 109.25,238.11 109.09,238.60 108.74,239.05 108.22,239.45 107.57,239.76 106.81,239.99" fill="#e8e8e8" stroke="none"/>
+<polyline points="106.812,244.673 105.984,244.797 105.129,244.812 104.289,244.716 103.507,244.515 102.823,244.219 102.269,243.842 101.875,243.403 101.660,242.925 101.634,242.432 101.800,241.947 102.148,241.496 102.661,241.100 103.314,240.781 104.073,240.553 104.901,240.429 105.757,240.414 106.596,240.510 107.378,240.711 108.063,241.007 108.616,241.384 109.010,241.822 109.225,242.300 109.251,242.794 109.086,243.279 108.738,243.730 108.224,244.126 107.572,244.445 106.812,244.673" fill="none" stroke="#000" stroke-width="0.20900000000000002" stroke-linejoin="round"/>
+<polyline points="106.812,239.993 105.984,240.117 105.129,240.132 104.289,240.036 103.507,239.835 102.823,239.539 102.269,239.162 101.875,238.723 101.660,238.245 101.634,237.752 101.800,237.267 102.148,236.816 102.661,236.420 103.314,236.101 104.073,235.873 104.901,235.749 105.757,235.734 106.596,235.830 107.378,236.031 108.063,236.327 108.616,236.704 109.010,237.142 109.225,237.620 109.251,238.114 109.086,238.599 108.738,239.050 108.224,239.446 107.572,239.765 106.812,239.993" fill="none" stroke="#000" stroke-width="0.38" stroke-linejoin="round"/>
+<line x1="106.812" y1="244.673" x2="106.812" y2="239.993" stroke="#000" stroke-width="0.38" stroke-linecap="butt"/>
+<line x1="104.073" y1="240.553" x2="104.073" y2="235.873" stroke="#000" stroke-width="0.38" stroke-linecap="butt"/>
+<line x1="100.278" y1="231.641" x2="102.043" y2="236.893" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="100.28" cy="231.64" r="0.5" fill="#000"/>
+<circle cx="105.44" cy="236.89" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="105.44" y="237.97" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">5</text>
+<polygon points="72.49,185.86 75.46,190.32 68.32,191.90 65.36,187.44" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="72.49,188.46 72.49,185.86 65.36,187.44 65.36,190.04" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="72.49,188.46 75.46,192.92 75.46,190.32 72.49,185.86" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="73.95,190.56 73.12,190.69 72.26,190.70 71.42,190.60 70.64,190.40 69.96,190.11 69.40,189.73 69.01,189.29 68.79,188.81 68.77,188.32 68.93,187.84 69.28,187.38 69.80,186.99 70.45,186.67 71.21,186.44 72.04,186.32 72.89,186.30 73.73,186.40 74.51,186.60 75.20,186.90 75.75,187.27 76.14,187.71 76.36,188.19 76.39,188.68 76.22,189.17 75.87,189.62 75.36,190.01 74.71,190.33 73.95,190.56" fill="#e8e8e8" stroke="none"/>
+<polyline points="73.946,195.241 73.118,195.365 72.263,195.380 71.423,195.285 70.642,195.084 69.957,194.787 69.404,194.411 69.010,193.972 68.794,193.494 68.769,193.000 68.934,192.515 69.282,192.064 69.795,191.669 70.448,191.349 71.208,191.122 72.036,190.998 72.891,190.983 73.731,191.078 74.512,191.279 75.197,191.576 75.750,191.952 76.144,192.391 76.360,192.869 76.385,193.363 76.220,193.848 75.872,194.299 75.359,194.694 74.706,195.014 73.946,195.241" fill="none" stroke="#000" stroke-width="0.20900000000000002" stroke-linejoin="round"/>
+<polyline points="73.946,190.561 73.118,190.685 72.263,190.700 71.423,190.605 70.642,190.404 69.957,190.107 69.404,189.731 69.010,189.292 68.794,188.814 68.769,188.320 68.934,187.835 69.282,187.384 69.795,186.989 70.448,186.669 71.208,186.442 72.036,186.318 72.891,186.303 73.731,186.398 74.512,186.599 75.197,186.896 75.750,187.272 76.144,187.711 76.360,188.189 76.385,188.683 76.220,189.168 75.872,189.619 75.359,190.014 74.706,190.334 73.946,190.561" fill="none" stroke="#000" stroke-width="0.38" stroke-linejoin="round"/>
+<line x1="73.946" y1="195.241" x2="73.946" y2="190.561" stroke="#000" stroke-width="0.38" stroke-linecap="butt"/>
+<line x1="71.208" y1="191.122" x2="71.208" y2="186.442" stroke="#000" stroke-width="0.38" stroke-linecap="butt"/>
+<line x1="67.412" y1="182.209" x2="69.177" y2="187.462" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="67.41" cy="182.21" r="0.5" fill="#000"/>
+<circle cx="72.58" cy="187.46" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="72.58" y="188.54" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">6</text>
+<polygon points="50.89,169.06 60.36,183.31 59.92,183.41 50.45,169.16" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="50.89,251.87 50.89,169.06 50.45,169.16 50.45,251.97" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="50.89,251.87 60.36,266.12 60.36,183.31 50.89,169.06" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<line x1="59.398" y1="262.451" x2="52.004" y2="251.243" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="59.40" cy="262.45" r="0.5" fill="#000"/>
+<circle cx="55.40" cy="251.24" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="55.40" y="252.32" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">7</text>
+<polygon points="113.77,155.13 123.24,169.37 122.79,169.47 113.32,155.23" fill="#f2f2f2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="113.77,237.94 113.77,155.13 113.32,155.23 113.32,238.04" fill="#e2e2e2" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="113.77,237.94 123.24,252.18 123.24,169.37 113.77,155.13" fill="#ececec" stroke="#000" stroke-width="0.32" opacity="1.0" stroke-linejoin="round"/>
+<line x1="122.273" y1="248.516" x2="114.879" y2="237.309" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="122.27" cy="248.52" r="0.5" fill="#000"/>
+<circle cx="118.28" cy="237.31" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="118.28" y="238.39" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">8</text>
+<polygon points="51.43,213.51 50.79,213.61 50.13,213.62 49.48,213.55 48.87,213.39 48.34,213.16 47.91,212.87 47.61,212.53 47.44,212.16 47.42,211.78 47.55,211.40 47.82,211.05 48.22,210.74 48.72,210.50 49.31,210.32 49.95,210.22 50.62,210.21 51.27,210.29 51.87,210.44 52.40,210.67 52.83,210.96 53.14,211.30 53.30,211.67 53.32,212.06 53.19,212.43 52.93,212.78 52.53,213.09 52.02,213.34 51.43,213.51" fill="#ececec" stroke="none"/>
+<polyline points="51.433,230.516 50.791,230.613 50.128,230.624 49.478,230.550 48.872,230.394 48.341,230.165 47.912,229.873 47.607,229.533 47.440,229.162 47.420,228.780 47.548,228.404 47.818,228.054 48.216,227.748 48.722,227.500 49.310,227.324 49.952,227.228 50.615,227.216 51.266,227.290 51.872,227.446 52.402,227.676 52.831,227.968 53.136,228.307 53.303,228.678 53.323,229.061 53.195,229.436 52.925,229.786 52.527,230.092 52.022,230.340 51.433,230.516" fill="none" stroke="#000" stroke-width="0.17600000000000002" stroke-linejoin="round"/>
+<polyline points="51.433,213.512 50.791,213.609 50.128,213.620 49.478,213.546 48.872,213.390 48.341,213.161 47.912,212.869 47.607,212.529 47.440,212.158 47.420,211.776 47.548,211.400 47.818,211.050 48.216,210.744 48.722,210.496 49.310,210.320 49.952,210.224 50.615,210.212 51.266,210.286 51.872,210.442 52.402,210.672 52.831,210.964 53.136,211.303 53.303,211.674 53.323,212.057 53.195,212.432 52.925,212.782 52.527,213.088 52.022,213.336 51.433,213.512" fill="none" stroke="#000" stroke-width="0.32" stroke-linejoin="round"/>
+<line x1="51.433" y1="230.516" x2="51.433" y2="213.512" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<line x1="49.310" y1="227.324" x2="49.310" y2="210.320" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<polygon points="56.00,220.38 55.36,220.47 54.69,220.49 54.04,220.41 53.44,220.26 52.91,220.03 52.48,219.73 52.17,219.39 52.00,219.02 51.98,218.64 52.11,218.27 52.38,217.92 52.78,217.61 53.29,217.36 53.88,217.19 54.52,217.09 55.18,217.08 55.83,217.15 56.44,217.31 56.97,217.54 57.40,217.83 57.70,218.17 57.87,218.54 57.89,218.92 57.76,219.30 57.49,219.65 57.09,219.95 56.59,220.20 56.00,220.38" fill="#ececec" stroke="none"/>
+<polyline points="55.998,237.382 55.356,237.478 54.693,237.490 54.042,237.416 53.437,237.260 52.906,237.030 52.477,236.738 52.172,236.398 52.005,236.028 51.985,235.645 52.113,235.269 52.383,234.920 52.781,234.613 53.286,234.366 53.875,234.189 54.517,234.093 55.180,234.082 55.830,234.156 56.436,234.311 56.967,234.541 57.396,234.833 57.701,235.173 57.868,235.543 57.888,235.926 57.760,236.302 57.490,236.652 57.092,236.958 56.586,237.205 55.998,237.382" fill="none" stroke="#000" stroke-width="0.17600000000000002" stroke-linejoin="round"/>
+<polyline points="55.998,220.378 55.356,220.474 54.693,220.486 54.042,220.412 53.437,220.256 52.906,220.026 52.477,219.734 52.172,219.394 52.005,219.024 51.985,218.641 52.113,218.265 52.383,217.916 52.781,217.609 53.286,217.362 53.875,217.185 54.517,217.089 55.180,217.078 55.830,217.152 56.436,217.307 56.967,217.537 57.396,217.829 57.701,218.169 57.868,218.539 57.888,218.922 57.760,219.298 57.490,219.648 57.092,219.954 56.586,220.201 55.998,220.378" fill="none" stroke="#000" stroke-width="0.32" stroke-linejoin="round"/>
+<line x1="55.998" y1="237.382" x2="55.998" y2="220.378" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<line x1="53.875" y1="234.189" x2="53.875" y2="217.185" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<polygon points="54.88,226.99 61.73,237.29 50.43,239.79 43.58,229.50" fill="#f0f0f0" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="54.88,208.53 61.73,218.83 50.43,221.33 43.58,211.04" fill="#f0f0f0" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<line x1="52.579" y1="241.783" x2="49.254" y2="221.953" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="52.58" cy="241.78" r="0.5" fill="#000"/>
+<circle cx="52.65" cy="221.95" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="52.65" y="223.03" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">9</text>
+<polygon points="119.81,198.36 119.17,198.46 118.50,198.47 117.85,198.39 117.25,198.24 116.72,198.01 116.29,197.72 115.98,197.38 115.82,197.00 115.80,196.62 115.92,196.25 116.19,195.90 116.59,195.59 117.10,195.34 117.69,195.17 118.33,195.07 118.99,195.06 119.64,195.13 120.25,195.29 120.78,195.52 121.21,195.81 121.51,196.15 121.68,196.52 121.70,196.90 121.57,197.28 121.30,197.63 120.90,197.93 120.40,198.18 119.81,198.36" fill="#ececec" stroke="none"/>
+<polyline points="119.808,215.363 119.166,215.459 118.504,215.471 117.853,215.397 117.247,215.241 116.716,215.011 116.288,214.719 115.982,214.379 115.815,214.009 115.796,213.626 115.924,213.250 116.193,212.901 116.591,212.594 117.097,212.347 117.686,212.170 118.327,212.074 118.990,212.063 119.641,212.137 120.247,212.292 120.777,212.522 121.206,212.814 121.512,213.154 121.678,213.524 121.698,213.907 121.570,214.283 121.300,214.633 120.903,214.939 120.397,215.186 119.808,215.363" fill="none" stroke="#000" stroke-width="0.17600000000000002" stroke-linejoin="round"/>
+<polyline points="119.808,198.359 119.166,198.455 118.504,198.467 117.853,198.393 117.247,198.237 116.716,198.007 116.288,197.715 115.982,197.375 115.815,197.005 115.796,196.622 115.924,196.246 116.193,195.897 116.591,195.590 117.097,195.343 117.686,195.166 118.327,195.070 118.990,195.059 119.641,195.133 120.247,195.288 120.777,195.518 121.206,195.810 121.512,196.150 121.678,196.520 121.698,196.903 121.570,197.279 121.300,197.629 120.903,197.935 120.397,198.182 119.808,198.359" fill="none" stroke="#000" stroke-width="0.32" stroke-linejoin="round"/>
+<line x1="119.808" y1="215.363" x2="119.808" y2="198.359" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<line x1="117.686" y1="212.170" x2="117.686" y2="195.166" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<polygon points="124.37,205.22 123.73,205.32 123.07,205.33 122.42,205.26 121.81,205.10 121.28,204.87 120.85,204.58 120.55,204.24 120.38,203.87 120.36,203.49 120.49,203.11 120.76,202.76 121.16,202.46 121.66,202.21 122.25,202.03 122.89,201.94 123.55,201.92 124.21,202.00 124.81,202.15 125.34,202.38 125.77,202.68 126.08,203.02 126.24,203.39 126.26,203.77 126.13,204.14 125.87,204.49 125.47,204.80 124.96,205.05 124.37,205.22" fill="#ececec" stroke="none"/>
+<polyline points="124.373,222.228 123.731,222.325 123.068,222.336 122.418,222.262 121.812,222.106 121.281,221.877 120.852,221.585 120.547,221.245 120.380,220.874 120.360,220.492 120.488,220.116 120.758,219.766 121.156,219.460 121.662,219.212 122.250,219.036 122.892,218.939 123.555,218.928 124.206,219.002 124.811,219.158 125.342,219.387 125.771,219.679 126.076,220.019 126.243,220.390 126.263,220.773 126.135,221.148 125.865,221.498 125.467,221.804 124.961,222.052 124.373,222.228" fill="none" stroke="#000" stroke-width="0.17600000000000002" stroke-linejoin="round"/>
+<polyline points="124.373,205.224 123.731,205.321 123.068,205.332 122.418,205.258 121.812,205.102 121.281,204.873 120.852,204.581 120.547,204.241 120.380,203.870 120.360,203.488 120.488,203.112 120.758,202.762 121.156,202.456 121.662,202.208 122.250,202.032 122.892,201.935 123.555,201.924 124.206,201.998 124.811,202.154 125.342,202.383 125.771,202.675 126.076,203.015 126.243,203.386 126.263,203.769 126.135,204.144 125.865,204.494 125.467,204.800 124.961,205.048 124.373,205.224" fill="none" stroke="#000" stroke-width="0.32" stroke-linejoin="round"/>
+<line x1="124.373" y1="222.228" x2="124.373" y2="205.224" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<line x1="122.250" y1="219.036" x2="122.250" y2="202.032" stroke="#000" stroke-width="0.32" stroke-linecap="butt"/>
+<polygon points="123.25,211.84 130.10,222.14 118.80,224.64 111.96,214.34" fill="#f0f0f0" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="123.25,193.38 130.10,203.68 118.80,206.18 111.96,195.88" fill="#f0f0f0" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<line x1="120.954" y1="226.630" x2="117.629" y2="206.799" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="120.95" cy="226.63" r="0.5" fill="#000"/>
+<circle cx="121.03" cy="206.80" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="121.03" y="207.88" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">10</text>
+<line x1="96.000" y1="161.160" x2="96.970" y2="162.619" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="96.970" y1="162.619" x2="94.443" y2="163.179" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="94.443" y1="163.179" x2="93.473" y2="161.720" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="93.473" y1="161.720" x2="96.000" y2="161.160" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="96.000" y1="246.440" x2="96.000" y2="161.160" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="96.970" y1="247.899" x2="96.970" y2="162.619" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="93.473" y1="247.000" x2="93.473" y2="161.720" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="94.443" y1="248.459" x2="94.443" y2="163.179" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="96.000" y1="246.440" x2="96.970" y2="247.899" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="96.970" y1="247.899" x2="94.443" y2="248.459" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.799" y1="167.188" x2="69.769" y2="168.647" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="69.769" y1="168.647" x2="67.242" y2="169.207" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="67.242" y1="169.207" x2="66.272" y2="167.749" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="66.272" y1="167.749" x2="68.799" y2="167.188" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.799" y1="252.468" x2="68.799" y2="167.188" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="69.769" y1="253.927" x2="69.769" y2="168.647" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="66.272" y1="253.029" x2="66.272" y2="167.749" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="67.242" y1="254.487" x2="67.242" y2="169.207" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.799" y1="252.468" x2="69.769" y2="253.927" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="69.769" y1="253.927" x2="67.242" y2="254.487" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="106.442" y1="176.865" x2="107.412" y2="178.324" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="107.412" y1="178.324" x2="104.885" y2="178.884" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="104.885" y1="178.884" x2="103.915" y2="177.425" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="103.915" y1="177.425" x2="106.442" y2="176.865" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="106.442" y1="262.145" x2="106.442" y2="176.865" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="107.412" y1="263.604" x2="107.412" y2="178.324" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="103.915" y1="262.705" x2="103.915" y2="177.425" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="104.885" y1="264.164" x2="104.885" y2="178.884" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="106.442" y1="262.145" x2="107.412" y2="263.604" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="107.412" y1="263.604" x2="104.885" y2="264.164" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="79.240" y1="182.893" x2="80.210" y2="184.352" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="80.210" y1="184.352" x2="77.683" y2="184.912" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="77.683" y1="184.912" x2="76.713" y2="183.453" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="76.713" y1="183.453" x2="79.240" y2="182.893" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="79.240" y1="268.173" x2="79.240" y2="182.893" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="80.210" y1="269.632" x2="80.210" y2="184.352" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="76.713" y1="268.733" x2="76.713" y2="183.453" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="77.683" y1="270.192" x2="77.683" y2="184.912" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="79.240" y1="268.173" x2="80.210" y2="269.632" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="80.210" y1="269.632" x2="77.683" y2="270.192" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="80.210" y1="265.992" x2="89.441" y2="256.319" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="80.21" cy="265.99" r="0.5" fill="#000"/>
+<circle cx="92.84" cy="256.32" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="92.84" y="257.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">11</text>
+<polygon points="95.08,196.95 105.35,212.40 78.60,218.33 68.33,202.88" fill="#f2f2f2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,197.37 95.08,196.95 68.33,202.88 68.33,203.30" fill="#e2e2e2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,197.37 105.35,212.82 105.35,212.40 95.08,196.95" fill="#ececec" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="90.505" y1="201.852" x2="93.928" y2="207.001" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="93.928" y1="207.001" x2="85.010" y2="208.977" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="85.010" y1="208.977" x2="81.586" y2="203.828" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.586" y1="203.828" x2="90.505" y2="201.852" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.505" y1="202.892" x2="90.505" y2="201.852" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="93.928" y1="208.041" x2="93.928" y2="207.001" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.586" y1="204.868" x2="81.586" y2="203.828" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="85.010" y1="210.017" x2="85.010" y2="208.977" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.505" y1="202.892" x2="93.928" y2="208.041" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="93.928" y1="208.041" x2="85.010" y2="210.017" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="79.491" y1="216.469" x2="77.947" y2="214.664" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="79.49" cy="216.47" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="214.66" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="215.74" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">12</text>
+<line x1="82.826" y1="193.320" x2="83.225" y2="193.921" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="193.921" x2="82.185" y2="194.152" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="194.152" x2="81.785" y2="193.551" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="193.551" x2="82.826" y2="193.320" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="197.220" x2="82.826" y2="193.320" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="197.821" x2="83.225" y2="193.921" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="197.451" x2="81.785" y2="193.551" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="198.052" x2="82.185" y2="194.152" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="197.220" x2="83.225" y2="197.821" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="197.821" x2="82.185" y2="198.052" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="205.850" x2="91.556" y2="206.450" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="206.450" x2="90.515" y2="206.681" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="206.681" x2="90.116" y2="206.080" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="206.080" x2="91.156" y2="205.850" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="209.750" x2="91.156" y2="205.850" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="210.350" x2="91.556" y2="206.450" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="209.980" x2="90.116" y2="206.080" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="210.581" x2="90.515" y2="206.681" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="209.750" x2="91.556" y2="210.350" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="210.350" x2="90.515" y2="210.581" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="95.08,185.67 105.35,201.12 78.60,207.05 68.33,191.60" fill="#f2f2f2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,186.09 95.08,185.67 68.33,191.60 68.33,192.02" fill="#e2e2e2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,186.09 105.35,201.53 105.35,201.12 95.08,185.67" fill="#ececec" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="86.391" y1="189.770" x2="88.217" y2="192.516" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="88.217" y1="192.516" x2="83.460" y2="193.570" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.460" y1="193.570" x2="81.634" y2="190.824" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.634" y1="190.824" x2="86.391" y2="189.770" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="86.391" y1="190.550" x2="86.391" y2="189.770" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="88.217" y1="193.296" x2="88.217" y2="192.516" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.634" y1="191.604" x2="81.634" y2="190.824" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.460" y1="194.350" x2="83.460" y2="193.570" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="86.391" y1="190.550" x2="88.217" y2="193.296" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="88.217" y1="193.296" x2="83.460" y2="194.350" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="79.491" y1="205.185" x2="77.947" y2="203.380" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="79.49" cy="205.18" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="203.38" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="204.46" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">13</text>
+<line x1="82.826" y1="182.036" x2="83.225" y2="182.637" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="182.637" x2="82.185" y2="182.868" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="182.868" x2="81.785" y2="182.267" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="182.267" x2="82.826" y2="182.036" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="185.156" x2="82.826" y2="182.036" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="185.757" x2="83.225" y2="182.637" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="185.387" x2="81.785" y2="182.267" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="185.988" x2="82.185" y2="182.868" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="185.156" x2="83.225" y2="185.757" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="185.757" x2="82.185" y2="185.988" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="194.566" x2="91.556" y2="195.166" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="195.166" x2="90.515" y2="195.397" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="195.397" x2="90.116" y2="194.796" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="194.796" x2="91.156" y2="194.566" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="197.686" x2="91.156" y2="194.566" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="198.286" x2="91.556" y2="195.166" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="197.916" x2="90.116" y2="194.796" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="198.517" x2="90.515" y2="195.397" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="197.686" x2="91.556" y2="198.286" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="198.286" x2="90.515" y2="198.517" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="95.08,173.61 105.35,189.05 78.60,194.98 68.33,179.54" fill="#f2f2f2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,174.00 95.08,173.61 68.33,179.54 68.33,179.93" fill="#e2e2e2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,174.00 105.35,189.44 105.35,189.05 95.08,173.61" fill="#ececec" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="79.491" y1="193.095" x2="77.947" y2="191.290" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="79.49" cy="193.09" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="191.29" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="192.37" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">14</text>
+<line x1="82.826" y1="169.946" x2="83.225" y2="170.547" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="170.547" x2="82.185" y2="170.778" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="170.778" x2="81.785" y2="170.177" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="170.177" x2="82.826" y2="169.946" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="173.066" x2="82.826" y2="169.946" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="173.667" x2="83.225" y2="170.547" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="173.297" x2="81.785" y2="170.177" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="173.898" x2="82.185" y2="170.778" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="173.066" x2="83.225" y2="173.667" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="173.667" x2="82.185" y2="173.898" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="182.476" x2="91.556" y2="183.076" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="183.076" x2="90.515" y2="183.307" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="183.307" x2="90.116" y2="182.706" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="182.706" x2="91.156" y2="182.476" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="185.596" x2="91.156" y2="182.476" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="186.196" x2="91.556" y2="183.076" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="185.826" x2="90.116" y2="182.706" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="186.427" x2="90.515" y2="183.307" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="185.596" x2="91.556" y2="186.196" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="186.196" x2="90.515" y2="186.427" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="95.08,161.52 105.35,176.96 78.60,182.89 68.33,167.45" fill="#f2f2f2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,161.93 95.08,161.52 68.33,167.45 68.33,167.86" fill="#e2e2e2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,161.93 105.35,177.38 105.35,176.96 95.08,161.52" fill="#ececec" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="96.901" y1="171.164" x2="98.499" y2="173.567" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="98.499" y1="173.567" x2="92.553" y2="174.885" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="92.553" y1="174.885" x2="90.956" y2="172.482" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.956" y1="172.482" x2="96.901" y2="171.164" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="96.901" y1="171.944" x2="96.901" y2="171.164" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="98.499" y1="174.347" x2="98.499" y2="173.567" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.956" y1="173.262" x2="90.956" y2="172.482" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="92.553" y1="175.665" x2="92.553" y2="174.885" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="96.901" y1="171.944" x2="98.499" y2="174.347" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="98.499" y1="174.347" x2="92.553" y2="175.665" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="79.491" y1="181.031" x2="77.947" y2="179.226" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="79.49" cy="181.03" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="179.23" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="180.31" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">15</text>
+<line x1="82.826" y1="157.882" x2="83.225" y2="158.483" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="158.483" x2="82.185" y2="158.714" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="158.714" x2="81.785" y2="158.113" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="158.113" x2="82.826" y2="157.882" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="161.002" x2="82.826" y2="157.882" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="161.603" x2="83.225" y2="158.483" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.785" y1="161.233" x2="81.785" y2="158.113" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.185" y1="161.834" x2="82.185" y2="158.714" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="82.826" y1="161.002" x2="83.225" y2="161.603" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.225" y1="161.603" x2="82.185" y2="161.834" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="170.412" x2="91.556" y2="171.012" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="171.012" x2="90.515" y2="171.243" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="171.243" x2="90.116" y2="170.642" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="170.642" x2="91.156" y2="170.412" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="173.532" x2="91.156" y2="170.412" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="174.132" x2="91.556" y2="171.012" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.116" y1="173.762" x2="90.116" y2="170.642" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="90.515" y1="174.363" x2="90.515" y2="171.243" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.156" y1="173.532" x2="91.556" y2="174.132" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="91.556" y1="174.132" x2="90.515" y2="174.363" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="95.08,149.45 105.35,164.90 78.60,170.83 68.33,155.38" fill="#f2f2f2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,149.87 95.08,149.45 68.33,155.38 68.33,155.80" fill="#e2e2e2" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="95.08,149.87 105.35,165.31 105.35,164.90 95.08,149.45" fill="#ececec" stroke="#000" stroke-width="0.35" opacity="1.0" stroke-linejoin="round"/>
+<line x1="85.926" y1="160.288" x2="87.980" y2="163.377" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="87.980" y1="163.377" x2="83.818" y2="164.300" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.818" y1="164.300" x2="81.764" y2="161.210" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.764" y1="161.210" x2="85.926" y2="160.288" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="85.926" y1="161.328" x2="85.926" y2="160.288" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="87.980" y1="164.417" x2="87.980" y2="163.377" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="81.764" y1="162.250" x2="81.764" y2="161.210" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="83.818" y1="165.340" x2="83.818" y2="164.300" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="85.926" y1="161.328" x2="87.980" y2="164.417" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="87.980" y1="164.417" x2="83.818" y2="165.340" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="79.491" y1="168.967" x2="77.947" y2="167.162" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="79.49" cy="168.97" r="0.5" fill="#000"/>
+<circle cx="81.35" cy="167.16" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="81.35" y="168.24" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">16</text>
+<polygon points="96.00,247.48 107.41,264.64 77.68,271.23 66.27,254.07" fill="#f2f2f2" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="96.00,248.00 96.00,247.48 66.27,254.07 66.27,254.59" fill="#e2e2e2" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="96.00,248.00 107.41,265.16 107.41,264.64 96.00,247.48" fill="#ececec" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<line x1="91.421" y1="251.078" x2="97.127" y2="259.660" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="97.127" y1="259.660" x2="82.262" y2="262.954" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="82.262" y1="262.954" x2="76.557" y2="254.372" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="76.557" y1="254.372" x2="91.421" y2="251.078" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="91.421" y1="252.898" x2="91.421" y2="251.078" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="97.127" y1="261.480" x2="97.127" y2="259.660" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="76.557" y1="256.192" x2="76.557" y2="254.372" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="82.262" y1="264.774" x2="82.262" y2="262.954" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="91.421" y1="252.898" x2="97.127" y2="261.480" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="97.127" y1="261.480" x2="82.262" y2="264.774" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="82.262" y1="264.774" x2="76.557" y2="256.192" stroke="#888" stroke-width="0.15" stroke-dasharray="1.5,1" stroke-linecap="butt"/>
+<line x1="76.557" y1="256.192" x2="91.421" y2="252.898" stroke="#888" stroke-width="0.15" stroke-dasharray="1.5,1" stroke-linecap="butt"/>
+<line x1="98.654" y1="249.476" x2="88.937" y2="252.230" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="98.65" cy="249.48" r="0.5" fill="#000"/>
+<circle cx="92.34" cy="252.23" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="92.34" y="253.31" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">17</text>
+<line x1="105.628" y1="272.319" x2="91.670" y2="259.651" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="105.63" cy="272.32" r="0.5" fill="#000"/>
+<circle cx="95.07" cy="259.65" r="3.4" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="95.07" y="260.73" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">18</text>
+<text x="272.00" y="44.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.8" text-anchor="start" font-weight="bold" fill="#000">爆炸图明细表</text>
+<line x1="272.000" y1="47.000" x2="408.000" y2="47.000" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<circle cx="276" cy="53.0" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="54.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">1</text>
+<text x="282.00" y="54.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">天线系统(偶极×2+热刀,卷收态)</text>
+<circle cx="276" cy="59.4" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="60.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">2</text>
+<text x="282.00" y="60.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-101 +Z端板×1(t2.0,46g)</text>
+<circle cx="276" cy="65.8" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="66.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">3</text>
+<text x="282.00" y="66.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-103A 侧板×2(相机面,Ø26窗)</text>
+<circle cx="276" cy="72.2" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="73.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">4</text>
+<text x="282.00" y="73.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-103A 侧板×2(相机面,Ø26窗)</text>
+<circle cx="276" cy="78.6" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="79.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">5</text>
+<text x="282.00" y="79.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">相机模组×2(IMX477+MEC-107镜座+MEC-111)</text>
+<circle cx="276" cy="85.0" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="86.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">6</text>
+<text x="282.00" y="86.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">相机模组×2(IMX477+MEC-107镜座+MEC-111)</text>
+<circle cx="276" cy="91.4" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">7</text>
+<text x="282.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-103B 侧板×2(普通面,Ø6过线孔)</text>
+<circle cx="276" cy="97.80000000000001" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="98.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">8</text>
+<text x="282.00" y="98.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-103B 侧板×2(普通面,Ø6过线孔)</text>
+<circle cx="276" cy="104.2" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="105.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">9</text>
+<text x="282.00" y="105.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">18650×2 + MEC-106 抱箍×2(每侧)</text>
+<circle cx="276" cy="110.6" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="111.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">10</text>
+<text x="282.00" y="111.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">18650×2 + MEC-106 抱箍×2(每侧)</text>
+<circle cx="276" cy="117.0" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="118.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">11</text>
+<text x="282.00" y="118.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-104 导轨×4(340.5,直线度≤0.05)</text>
+<circle cx="276" cy="123.4" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="124.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">12</text>
+<text x="282.00" y="124.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">E2 CM4 载板</text>
+<circle cx="276" cy="129.8" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="130.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">13</text>
+<text x="282.00" y="130.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">E7 OBC</text>
+<circle cx="276" cy="136.2" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="137.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">14</text>
+<text x="282.00" y="137.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-105 隔板</text>
+<circle cx="276" cy="142.60000000000002" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="143.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">15</text>
+<text x="282.00" y="143.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">E8 EPS</text>
+<circle cx="276" cy="149.0" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="150.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">16</text>
+<text x="282.00" y="150.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">E9 UHF</text>
+<circle cx="276" cy="155.4" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="156.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">17</text>
+<text x="282.00" y="156.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-102 −Z端板×1(开关/RBF孔)</text>
+<circle cx="276" cy="161.8" r="3.2" fill="#fff" stroke="#000" stroke-width="0.3"/>
+<text x="276.00" y="162.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="bold" fill="#000">18</text>
+<text x="282.00" y="162.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.85" text-anchor="start" font-weight="normal" fill="#000">MEC-108 开关支架+微动开关×3(NC)</text>
+</svg>

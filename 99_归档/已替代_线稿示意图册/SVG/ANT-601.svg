@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ANT-601</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:2</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">UHF 天线系统(装配图)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">437MHz λ/2 卷尺偶极子 ×2 · 弹簧钢带 0.15mm 自制 · 尼龙单丝压紧 + 镍铬热刀熔断释放</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1套</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">21/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ANT-601　UHF 天线系统(装配图)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">437MHz λ/2 卷尺偶极子 ×2 · 弹簧钢带 0.15mm 自制 · 尼龙单丝压紧 + 镍铬热刀熔断释放</text>
+<polyline points="52.000,58.560 112.000,58.560 112.000,58.000 52.000,58.000 52.000,58.560" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="82.00" y="57.44" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">+Z 端板(侧视)</text>
+<rect x="59.200" y="57.916" width="2.400" height="0.728" fill="none" stroke="#000" stroke-width="0.45"/>
+<rect x="102.400" y="57.916" width="2.400" height="0.728" fill="none" stroke="#000" stroke-width="0.45"/>
+<polyline points="60.400,58.560 60.400,60.940 60.400,101.540" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<polyline points="103.600,58.560 103.600,60.940 103.600,101.540" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<text x="65.40" y="77.74" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">卷收钢带</text>
+<text x="108.60" y="77.74" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">卷收钢带(0.15 弹簧钢带)</text>
+<line x1="59.800" y1="63.740" x2="63.400" y2="63.740" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1" stroke-linecap="butt"/>
+<line x1="59.800" y1="83.340" x2="63.400" y2="83.340" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1" stroke-linecap="butt"/>
+<line x1="103.000" y1="63.740" x2="106.600" y2="63.740" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1" stroke-linecap="butt"/>
+<line x1="103.000" y1="83.340" x2="106.600" y2="83.340" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1" stroke-linecap="butt"/>
+<text x="108.60" y="88.54" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.3" text-anchor="start" font-weight="normal" fill="#000">尼龙单丝压紧(点划)</text>
+<text x="96.00" y="96.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">卷收态:钢带贴 ±Y 侧面向下,</text>
+<text x="96.00" y="101.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">尼龙单丝绕 MEC-109 绕线柱压紧;</text>
+<text x="96.00" y="107.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">入轨后热刀熔断,钢带弹开成偶极。</text>
+<text x="96.00" y="146.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="middle" font-weight="bold" fill="#000">整星上部侧视(卷收态)</text>
+<text x="246.00" y="178.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">热刀释放回路(双刀冗余)</text>
+<rect x="256.000" y="184.000" width="120.000" height="9.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="190.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">OBC DEPLOY_EN 高脉冲</text>
+<line x1="316.000" y1="193.000" x2="316.000" y2="196.500" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<rect x="256.000" y="196.500" width="120.000" height="9.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="202.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">IRLML6344 驱动</text>
+<line x1="316.000" y1="205.500" x2="316.000" y2="209.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<rect x="256.000" y="209.000" width="120.000" height="9.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="215.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">热刀×2(3s 脉冲)</text>
+<line x1="316.000" y1="218.000" x2="316.000" y2="221.500" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<rect x="256.000" y="221.500" width="120.000" height="9.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="227.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">尼龙丝熔断 → 展开</text>
+<text x="246.00" y="238.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">双重确认+延时指令防误触发;ANT_STAT 回读。</text>
+<text x="118.00" y="152.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="middle" font-weight="bold" fill="#000">展开态(在轨,顶视示意)</text>
+<polyline points="96.000,234.000 138.000,234.000 138.000,196.200 96.000,196.200 96.000,234.000" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="117.00" y="215.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">星体</text>
+<circle cx="117.000" cy="234.000" r="2.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<circle cx="117.000" cy="196.200" r="2.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<polyline points="117.000,196.200 117.000,156.300" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<polyline points="117.000,234.000 117.000,273.900" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<text x="119.52" y="175.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">偶极臂 λ/2≈344mm</text>
+<text x="119.52" y="254.16" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">偶极臂 λ/2≈344mm</text>
+<text x="66.00" y="272.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">437MHz λ/2 = 344mm(每支);两支对置偶极,</text>
+<text x="66.00" y="278.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">经巴伦 1:1 + RG178 接通信板 SMA。</text>
+<text x="246.00" y="64.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="start" font-weight="bold" fill="#000">天线参数</text>
+<text x="246.00" y="70.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="bold" fill="#000">项目</text>
+<text x="280.00" y="70.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="bold" fill="#000">规格</text>
+<text x="336.00" y="70.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="bold" fill="#000">数量/备注</text>
+<line x1="246.000" y1="71.400" x2="384.000" y2="71.400" stroke="#000" stroke-width="0.35" stroke-linecap="butt"/>
+<text x="246.00" y="75.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">偶极臂</text>
+<text x="280.00" y="75.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">弹簧钢带 0.15×8mm,L≈344</text>
+<text x="336.00" y="75.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">×4(2 支)</text>
+<text x="246.00" y="81.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">频率</text>
+<text x="280.00" y="81.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">437MHz(λ/2 谐振)</text>
+<text x="336.00" y="81.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">驻波&lt;1.5</text>
+<text x="246.00" y="86.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">馈电</text>
+<text x="280.00" y="86.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">RG178 同轴 + SMA-KY</text>
+<text x="336.00" y="86.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">1:1 巴伦</text>
+<text x="246.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">压紧</text>
+<text x="280.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">尼龙单丝 Ø0.3</text>
+<text x="336.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">×2</text>
+<text x="246.00" y="98.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">释放</text>
+<text x="280.00" y="98.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">镍铬热刀线,3s 脉冲</text>
+<text x="336.00" y="98.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">×2 冗余</text>
+<text x="246.00" y="103.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">遥测</text>
+<text x="280.00" y="103.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">ANT_STAT 微动开关</text>
+<text x="336.00" y="103.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">经 J1.18</text>
+<text x="246.00" y="130.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<line x1="246.000" y1="131.600" x2="408.000" y2="131.600" stroke="#000" stroke-width="0.4" stroke-linecap="butt"/>
+<text x="246.00" y="136.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">1. 天线座 MEC-109 ×2 装于 +Z 端板 ±Y 边;</text>
+<text x="246.00" y="140.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">2. 释放:OBC DEPLOY_EN 高脉冲 3s,双刀</text>
+<text x="246.00" y="145.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   冗余;双重确认+延时指令防误触发;</text>
+<text x="246.00" y="149.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">3. 展开遥测 ANT_STAT 经微动开关回读;</text>
+<text x="246.00" y="154.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">4. 钢带表面黑色氧化处理(热控+消光);</text>
+<text x="246.00" y="158.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">5. 展开试验:常温释放 50 次,无卡滞、</text>
+<text x="246.00" y="163.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   无永久变形;低温 −30°C 释放验证;</text>
+<text x="246.00" y="167.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">6. 绕线柱抛光 R0.5(防割伤钢带);</text>
+<text x="246.00" y="172.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">7. 收纳状态外尺寸不超出 CDS 包络。</text>
+</svg>

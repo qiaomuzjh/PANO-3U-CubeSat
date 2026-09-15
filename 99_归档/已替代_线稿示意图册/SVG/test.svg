@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="249.0" width="206.0" height="36.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="320.0" y1="249.0" x2="320.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="358.0" y1="249.0" x2="358.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="384.0" y1="249.0" x2="384.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="262.0" x2="408.0" y2="262.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="273.0" x2="408.0" y2="273.0" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="258.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.2" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星 (3U CubeSat)</text>
+<text x="323.0" y="255.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">图号</text>
+<text x="361.0" y="255.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">比例</text>
+<text x="387.0" y="255.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">版本</text>
+<text x="323.0" y="260.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">TEST-001</text>
+<text x="361.0" y="260.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="middle" font-weight="normal" fill="#000">1:2</text>
+<text x="387.0" y="260.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="269.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">测试图</text>
+<text x="323.0" y="266.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">材料</text>
+<text x="361.0" y="266.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">数量</text>
+<text x="387.0" y="266.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">页次</text>
+<text x="323.0" y="272.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">6061-T6</text>
+<text x="361.0" y="272.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1</text>
+<text x="387.0" y="272.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1/1</text>
+<text x="323.0" y="278.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">设计规范</text>
+<text x="361.0" y="278.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">日期</text>
+<text x="387.0" y="278.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">图幅</text>
+<text x="323.0" y="283.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="361.0" y="283.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="387.0" y="283.2" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">TEST-001　测试图</text>
+<polyline points="40.000,60.000 140.000,60.000 140.000,10.000 40.000,10.000 40.000,60.000" fill="none" stroke="#000" stroke-width="0.7" stroke-linejoin="round"/>
+<circle cx="90.000" cy="35.000" r="10.000" fill="none" stroke="#000" stroke-width="0.6"/>
+<clipPath id="g1"><polygon points="40.000,60.000 70.000,60.000 70.000,10.000 40.000,10.000"/></clipPath>
+<g clip-path="url(#g1)" stroke="#000" stroke-width="0.18">
+<line x1="6.81" y1="35.11" x2="55.11" y2="-13.19"/>
+<line x1="8.22" y1="36.52" x2="56.52" y2="-11.78"/>
+<line x1="9.64" y1="37.94" x2="57.94" y2="-10.36"/>
+<line x1="11.05" y1="39.35" x2="59.35" y2="-8.95"/>
+<line x1="12.46" y1="40.77" x2="60.77" y2="-7.54"/>
+<line x1="13.88" y1="42.18" x2="62.18" y2="-6.12"/>
+<line x1="15.29" y1="43.59" x2="63.59" y2="-4.71"/>
+<line x1="16.71" y1="45.01" x2="65.01" y2="-3.29"/>
+<line x1="18.12" y1="46.42" x2="66.42" y2="-1.88"/>
+<line x1="19.54" y1="47.84" x2="67.84" y2="-0.46"/>
+<line x1="20.95" y1="49.25" x2="69.25" y2="0.95"/>
+<line x1="22.36" y1="50.67" x2="70.67" y2="2.36"/>
+<line x1="23.78" y1="52.08" x2="72.08" y2="3.78"/>
+<line x1="25.19" y1="53.49" x2="73.49" y2="5.19"/>
+<line x1="26.61" y1="54.91" x2="74.91" y2="6.61"/>
+<line x1="28.02" y1="56.32" x2="76.32" y2="8.02"/>
+<line x1="29.43" y1="57.74" x2="77.74" y2="9.43"/>
+<line x1="30.85" y1="59.15" x2="79.15" y2="10.85"/>
+<line x1="32.26" y1="60.57" x2="80.57" y2="12.26"/>
+<line x1="33.68" y1="61.98" x2="81.98" y2="13.68"/>
+<line x1="35.09" y1="63.39" x2="83.39" y2="15.09"/>
+<line x1="36.51" y1="64.81" x2="84.81" y2="16.51"/>
+<line x1="37.92" y1="66.22" x2="86.22" y2="17.92"/>
+<line x1="39.33" y1="67.64" x2="87.64" y2="19.33"/>
+<line x1="40.75" y1="69.05" x2="89.05" y2="20.75"/>
+<line x1="42.16" y1="70.46" x2="90.46" y2="22.16"/>
+<line x1="43.58" y1="71.88" x2="91.88" y2="23.58"/>
+<line x1="44.99" y1="73.29" x2="93.29" y2="24.99"/>
+<line x1="46.41" y1="74.71" x2="94.71" y2="26.41"/>
+<line x1="47.82" y1="76.12" x2="96.12" y2="27.82"/>
+<line x1="49.23" y1="77.54" x2="97.54" y2="29.23"/>
+<line x1="50.65" y1="78.95" x2="98.95" y2="30.65"/>
+<line x1="52.06" y1="80.36" x2="100.36" y2="32.06"/>
+<line x1="53.48" y1="81.78" x2="101.78" y2="33.48"/>
+<line x1="54.89" y1="83.19" x2="103.19" y2="34.89"/>
+</g>
+<line x1="40.000" y1="42.000" x2="40.000" y2="52.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="140.000" y1="42.000" x2="140.000" y2="52.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="40.000" y1="52.000" x2="140.000" y2="52.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 40.00 52.00 L 42.20 51.30 L 42.20 52.70 Z" fill="#000"/>
+<path d="M 140.00 52.00 L 137.80 51.30 L 137.80 52.70 Z" fill="#000"/>
+<text x="90.00" y="50.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">100</text>
+<line x1="36.000" y1="40.000" x2="36.000" y2="40.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 36.00 40.00 L 35.30 42.20 L 36.70 42.20 Z" fill="#000"/>
+<path d="M 36.00 40.00 L 35.30 37.80 L 36.70 37.80 Z" fill="#000"/>
+<text x="34.90" y="40.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 34.90 40.00)">50</text>
+<line x1="90.000" y1="35.000" x2="297.000" y2="40.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="297.000" y1="40.000" x2="300.000" y2="40.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="90.00" cy="35.00" r="0.5" fill="#000"/>
+<text x="300.00" y="41.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="start" font-weight="normal" fill="#000">Ø20 通孔</text>
+<text x="250.00" y="120.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<text x="250.00" y="124.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">1. 未注公差 ±0.1</text>
+<text x="250.00" y="128.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">2. 去毛刺锐边</text>
+</svg>

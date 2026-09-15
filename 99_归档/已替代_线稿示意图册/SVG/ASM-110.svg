@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ASM-110</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1.5:1</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">分离开关支架 MEC-108 / 天线安装座 MEC-109</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">MEC-108:展开 75×60 t1.2 折弯,承载 3×微动开关 · MEC-109:40×20×10 含热刀绕线柱</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">6061-T6</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1+2</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">14/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ASM-110　分离开关支架 MEC-108 / 天线安装座 MEC-109</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">MEC-108:展开 75×60 t1.2 折弯,承载 3×微动开关 · MEC-109:40×20×10 含热刀绕线柱</text>
+<polyline points="44.000,130.000 156.500,130.000 156.500,40.000 44.000,40.000 44.000,130.000" fill="none" stroke="#000" stroke-width="0.7" stroke-linejoin="round"/>
+<circle cx="55.250" cy="119.500" r="3.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<line x1="48.250" y1="119.500" x2="62.250" y2="119.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="55.250" y1="112.500" x2="55.250" y2="126.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="55.250" cy="89.500" r="3.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<line x1="48.250" y1="89.500" x2="62.250" y2="89.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="55.250" y1="82.500" x2="55.250" y2="96.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="55.250" cy="59.500" r="3.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<line x1="48.250" y1="59.500" x2="62.250" y2="59.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="55.250" y1="52.500" x2="55.250" y2="66.500" stroke="#000055" stroke-width="0.14" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="59.750" cy="106.000" r="1.650" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="54.750" y1="106.000" x2="64.750" y2="106.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="59.750" y1="101.000" x2="59.750" y2="111.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="59.750" cy="64.000" r="1.650" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="54.750" y1="64.000" x2="64.750" y2="64.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="59.750" y1="59.000" x2="59.750" y2="69.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="39.500" y1="107.500" x2="161.000" y2="107.500" stroke="#000" stroke-width="0.18" stroke-dasharray="8,1.5,1.5,1.5" stroke-linecap="butt"/>
+<line x1="39.500" y1="77.500" x2="161.000" y2="77.500" stroke="#000" stroke-width="0.18" stroke-dasharray="8,1.5,1.5,1.5" stroke-linecap="butt"/>
+<line x1="39.500" y1="47.500" x2="161.000" y2="47.500" stroke="#000" stroke-width="0.18" stroke-dasharray="8,1.5,1.5,1.5" stroke-linecap="butt"/>
+<text x="99.50" y="148.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="middle" font-weight="bold" fill="#000">MEC-108 展开图(1.5:1)</text>
+<line x1="44.000" y1="140.000" x2="156.500" y2="140.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 44.00 140.00 L 46.20 139.30 L 46.20 140.70 Z" fill="#000"/>
+<path d="M 156.50 140.00 L 154.30 139.30 L 154.30 140.70 Z" fill="#000"/>
+<text x="100.25" y="138.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">75</text>
+<line x1="36.000" y1="40.000" x2="36.000" y2="130.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 36.00 40.00 L 35.30 42.20 L 36.70 42.20 Z" fill="#000"/>
+<path d="M 36.00 130.00 L 35.30 127.80 L 36.70 127.80 Z" fill="#000"/>
+<text x="34.90" y="85.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 34.90 85.00)">60</text>
+<line x1="73.250" y1="59.500" x2="73.250" y2="119.500" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 73.25 59.50 L 72.55 61.70 L 73.95 61.70 Z" fill="#000"/>
+<path d="M 73.25 119.50 L 72.55 117.30 L 73.95 117.30 Z" fill="#000"/>
+<text x="72.15" y="89.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 72.15 89.50)">40(SW1↔SW3)</text>
+<line x1="55.250" y1="59.500" x2="11.000" y2="86.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="11.000" y1="86.000" x2="14.000" y2="86.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="55.25" cy="59.50" r="0.5" fill="#000"/>
+<text x="14.00" y="87.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">3×Ø4 微动开关滚轮杆过孔
+(7.5, 7/27/47) 间距 20</text>
+<line x1="59.750" y1="64.000" x2="7.000" y2="108.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="7.000" y1="108.000" x2="10.000" y2="108.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="59.75" cy="64.00" r="0.5" fill="#000"/>
+<text x="10.00" y="109.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">2×Ø2.2 固定孔(10.5,16/44)
+→F10 M2×5 拧入 −Z 端板</text>
+<text x="99.50" y="158.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">点划线:折弯线 ×3(弯成 ∏ 形,壁高 15)</text>
+<text x="94.00" y="226.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">成型后侧视(1.5:1)</text>
+<polyline points="60.000,193.500 60.000,195.300 64.500,195.300 64.500,214.200 123.000,214.200 123.000,195.300 127.500,195.300 127.500,193.500" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<rect x="63.000" y="199.500" width="7.500" height="4.500" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="66.750" y1="204.000" x2="66.750" y2="208.500" stroke="#000" stroke-width="0.4" stroke-linecap="butt"/>
+<circle cx="66.750" cy="209.100" r="1.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="75.00" y="210.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">微动开关×3(滚轮朝 −Z 端板)</text>
+<line x1="60.000" y1="222.000" x2="127.500" y2="222.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 60.00 222.00 L 62.20 221.30 L 62.20 222.70 Z" fill="#000"/>
+<path d="M 127.50 222.00 L 125.30 221.30 L 125.30 222.70 Z" fill="#000"/>
+<text x="93.75" y="220.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="middle" font-weight="normal" fill="#000">30(成型宽)</text>
+<text x="208.00" y="242.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">MEC-109 天线安装座(2:1)</text>
+<polyline points="168.000,232.000 248.000,232.000 248.000,192.000 168.000,192.000 168.000,232.000" fill="none" stroke="#000" stroke-width="0.65" stroke-linejoin="round"/>
+<circle cx="178.000" cy="212.000" r="3.200" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="172.000" y1="212.000" x2="184.000" y2="212.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="178.000" y1="206.000" x2="178.000" y2="218.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="238.000" cy="212.000" r="3.200" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="232.000" y1="212.000" x2="244.000" y2="212.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="238.000" y1="206.000" x2="238.000" y2="218.000" stroke="#000055" stroke-width="0.13" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<circle cx="192.000" cy="212.000" r="2.400" fill="none" stroke="#000" stroke-width="0.45" stroke-dasharray="3,1"/>
+<circle cx="224.000" cy="212.000" r="2.400" fill="none" stroke="#000" stroke-width="0.45" stroke-dasharray="3,1"/>
+<polyline points="208.000,240.000 208.000,184.000" fill="none" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linejoin="round"/>
+<line x1="168.000" y1="239.000" x2="248.000" y2="239.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 168.00 239.00 L 170.20 238.30 L 170.20 239.70 Z" fill="#000"/>
+<path d="M 248.00 239.00 L 245.80 238.30 L 245.80 239.70 Z" fill="#000"/>
+<text x="208.00" y="237.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">40</text>
+<line x1="256.000" y1="192.000" x2="256.000" y2="232.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 256.00 192.00 L 255.30 194.20 L 256.70 194.20 Z" fill="#000"/>
+<path d="M 256.00 232.00 L 255.30 229.80 L 256.70 229.80 Z" fill="#000"/>
+<text x="254.90" y="212.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 254.90 212.00)">20</text>
+<line x1="224.000" y1="212.000" x2="297.000" y2="196.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="297.000" y1="196.000" x2="300.000" y2="196.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="224.00" cy="212.00" r="0.5" fill="#000"/>
+<text x="300.00" y="197.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">热刀绕线柱 ×2
+(尼龙单丝+镍铬热刀线)</text>
+<line x1="238.000" y1="212.000" x2="297.000" y2="172.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="297.000" y1="172.000" x2="300.000" y2="172.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="238.00" cy="212.00" r="0.5" fill="#000"/>
+<text x="300.00" y="173.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">2×Ø3.2 安装孔(5/35,10)
+→F10 M2×5</text>
+<polyline points="30.000,262.000 110.000,262.000 110.000,254.000 38.000,254.000 38.000,242.000 30.000,242.000 30.000,262.000" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<clipPath id="g1"><polygon points="30.000,262.000 110.000,262.000 110.000,254.000 38.000,254.000 38.000,242.000 30.000,242.000"/></clipPath>
+<g clip-path="url(#g1)" stroke="#000" stroke-width="0.12">
+<line x1="4.64" y1="252.02" x2="70.02" y2="186.64"/>
+<line x1="5.63" y1="253.01" x2="71.01" y2="187.63"/>
+<line x1="6.62" y1="254.00" x2="72.00" y2="188.62"/>
+<line x1="7.61" y1="254.99" x2="72.99" y2="189.61"/>
+<line x1="8.60" y1="255.98" x2="73.98" y2="190.60"/>
+<line x1="9.59" y1="256.97" x2="74.97" y2="191.59"/>
+<line x1="10.58" y1="257.96" x2="75.96" y2="192.58"/>
+<line x1="11.57" y1="258.95" x2="76.95" y2="193.57"/>
+<line x1="12.56" y1="259.94" x2="77.94" y2="194.56"/>
+<line x1="13.55" y1="260.93" x2="78.93" y2="195.55"/>
+<line x1="14.54" y1="261.92" x2="79.92" y2="196.54"/>
+<line x1="15.53" y1="262.91" x2="80.91" y2="197.53"/>
+<line x1="16.52" y1="263.90" x2="81.90" y2="198.52"/>
+<line x1="17.51" y1="264.89" x2="82.89" y2="199.51"/>
+<line x1="18.50" y1="265.88" x2="83.88" y2="200.50"/>
+<line x1="19.49" y1="266.87" x2="84.87" y2="201.49"/>
+<line x1="20.48" y1="267.86" x2="85.86" y2="202.48"/>
+<line x1="21.47" y1="268.85" x2="86.85" y2="203.47"/>
+<line x1="22.46" y1="269.84" x2="87.84" y2="204.46"/>
+<line x1="23.45" y1="270.83" x2="88.83" y2="205.45"/>
+<line x1="24.44" y1="271.82" x2="89.82" y2="206.44"/>
+<line x1="25.43" y1="272.81" x2="90.81" y2="207.43"/>
+<line x1="26.42" y1="273.80" x2="91.80" y2="208.42"/>
+<line x1="27.41" y1="274.79" x2="92.79" y2="209.41"/>
+<line x1="28.40" y1="275.78" x2="93.78" y2="210.40"/>
+<line x1="29.39" y1="276.77" x2="94.77" y2="211.39"/>
+<line x1="30.38" y1="277.76" x2="95.76" y2="212.38"/>
+<line x1="31.37" y1="278.75" x2="96.75" y2="213.37"/>
+<line x1="32.36" y1="279.74" x2="97.74" y2="214.36"/>
+<line x1="33.35" y1="280.73" x2="98.73" y2="215.35"/>
+<line x1="34.34" y1="281.72" x2="99.72" y2="216.34"/>
+<line x1="35.33" y1="282.71" x2="100.71" y2="217.33"/>
+<line x1="36.32" y1="283.70" x2="101.70" y2="218.32"/>
+<line x1="37.31" y1="284.69" x2="102.69" y2="219.31"/>
+<line x1="38.30" y1="285.68" x2="103.68" y2="220.30"/>
+<line x1="39.29" y1="286.67" x2="104.67" y2="221.29"/>
+<line x1="40.28" y1="287.66" x2="105.66" y2="222.28"/>
+<line x1="41.27" y1="288.65" x2="106.65" y2="223.27"/>
+<line x1="42.26" y1="289.64" x2="107.64" y2="224.26"/>
+<line x1="43.25" y1="290.63" x2="108.63" y2="225.25"/>
+<line x1="44.24" y1="291.62" x2="109.62" y2="226.24"/>
+<line x1="45.23" y1="292.61" x2="110.61" y2="227.23"/>
+<line x1="46.22" y1="293.60" x2="111.60" y2="228.22"/>
+<line x1="47.21" y1="294.59" x2="112.59" y2="229.21"/>
+<line x1="48.20" y1="295.58" x2="113.58" y2="230.20"/>
+<line x1="49.19" y1="296.57" x2="114.57" y2="231.19"/>
+<line x1="50.18" y1="297.56" x2="115.56" y2="232.18"/>
+<line x1="51.17" y1="298.55" x2="116.55" y2="233.17"/>
+<line x1="52.16" y1="299.54" x2="117.54" y2="234.16"/>
+<line x1="53.15" y1="300.53" x2="118.53" y2="235.15"/>
+<line x1="54.14" y1="301.52" x2="119.52" y2="236.14"/>
+<line x1="55.13" y1="302.51" x2="120.51" y2="237.13"/>
+<line x1="56.12" y1="303.50" x2="121.50" y2="238.12"/>
+<line x1="57.11" y1="304.49" x2="122.49" y2="239.11"/>
+<line x1="58.10" y1="305.48" x2="123.48" y2="240.10"/>
+<line x1="59.09" y1="306.47" x2="124.47" y2="241.09"/>
+<line x1="60.08" y1="307.46" x2="125.46" y2="242.08"/>
+<line x1="61.07" y1="308.45" x2="126.45" y2="243.07"/>
+<line x1="62.06" y1="309.44" x2="127.44" y2="244.06"/>
+<line x1="63.05" y1="310.43" x2="128.43" y2="245.05"/>
+<line x1="64.04" y1="311.42" x2="129.42" y2="246.04"/>
+<line x1="65.03" y1="312.41" x2="130.41" y2="247.03"/>
+<line x1="66.02" y1="313.40" x2="131.40" y2="248.02"/>
+<line x1="67.01" y1="314.39" x2="132.39" y2="249.01"/>
+<line x1="68.00" y1="315.38" x2="133.38" y2="250.00"/>
+<line x1="68.99" y1="316.37" x2="134.37" y2="250.99"/>
+<line x1="69.98" y1="317.36" x2="135.36" y2="251.98"/>
+</g>
+<text x="70.00" y="274.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#000">侧视:高 10(柱)+4(底板 t2)</text>
+<text x="252.00" y="234.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">装配位置示意</text>
+<polygon points="294.00,295.00 315.95,328.01 258.78,340.68 236.83,307.67" fill="#f2f2f2" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="294.00,296.00 294.00,295.00 236.83,307.67 236.83,308.67" fill="#e2e2e2" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="294.00,296.00 315.95,329.01 315.95,328.01 294.00,295.00" fill="#ececec" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="285.19,302.92 296.17,319.42 267.58,325.76 256.61,309.25" fill="#f2f2f2" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="285.19,306.42 285.19,302.92 256.61,309.25 256.61,312.75" fill="#e2e2e2" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="285.19,306.42 296.17,322.92 296.17,319.42 285.19,302.92" fill="#ececec" stroke="#000" stroke-width="0.3" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="282.86,307.75 282.46,307.81 282.05,307.82 281.64,307.78 281.27,307.68 280.94,307.54 280.67,307.36 280.48,307.14 280.38,306.91 280.37,306.68 280.45,306.44 280.61,306.23 280.86,306.04 281.17,305.88 281.54,305.77 281.94,305.71 282.35,305.71 282.75,305.75 283.13,305.85 283.46,305.99 283.72,306.17 283.91,306.38 284.02,306.61 284.03,306.85 283.95,307.08 283.78,307.30 283.53,307.49 283.22,307.64 282.86,307.75" fill="#e6e6e6" stroke="none"/>
+<polyline points="282.855,310.254 282.457,310.314 282.046,310.321 281.642,310.275 281.267,310.179 280.937,310.036 280.671,309.855 280.482,309.644 280.378,309.414 280.366,309.177 280.446,308.944 280.613,308.727 280.860,308.537 281.174,308.383 281.539,308.274 281.937,308.214 282.348,308.207 282.752,308.253 283.127,308.350 283.457,308.492 283.723,308.673 283.912,308.884 284.016,309.114 284.028,309.351 283.948,309.584 283.781,309.801 283.534,309.991 283.221,310.145 282.855,310.254" fill="none" stroke="#000" stroke-width="0.1375" stroke-linejoin="round"/>
+<polyline points="282.855,307.754 282.457,307.814 282.046,307.821 281.642,307.775 281.267,307.679 280.937,307.536 280.671,307.355 280.482,307.144 280.378,306.914 280.366,306.677 280.446,306.444 280.613,306.227 280.860,306.037 281.174,305.883 281.539,305.774 281.937,305.714 282.348,305.707 282.752,305.753 283.127,305.850 283.457,305.992 283.723,306.173 283.912,306.384 284.016,306.614 284.028,306.851 283.948,307.084 283.781,307.301 283.534,307.491 283.221,307.645 282.855,307.754" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round"/>
+<line x1="282.855" y1="310.254" x2="282.855" y2="307.754" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="281.539" y1="308.274" x2="281.539" y2="305.774" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="274.85,309.53 274.45,309.59 274.04,309.60 273.64,309.55 273.26,309.45 272.93,309.31 272.67,309.13 272.48,308.92 272.37,308.69 272.36,308.45 272.44,308.22 272.61,308.00 272.86,307.81 273.17,307.66 273.53,307.55 273.93,307.49 274.34,307.48 274.75,307.53 275.12,307.62 275.45,307.77 275.72,307.95 275.91,308.16 276.01,308.39 276.02,308.63 275.94,308.86 275.78,309.08 275.53,309.27 275.22,309.42 274.85,309.53" fill="#e6e6e6" stroke="none"/>
+<polyline points="274.852,312.028 274.453,312.088 274.042,312.095 273.639,312.049 273.263,311.952 272.934,311.810 272.668,311.629 272.478,311.418 272.375,311.188 272.362,310.951 272.442,310.718 272.609,310.501 272.856,310.311 273.170,310.157 273.535,310.048 273.933,309.988 274.344,309.981 274.748,310.027 275.124,310.123 275.453,310.266 275.719,310.447 275.908,310.658 276.012,310.888 276.024,311.125 275.945,311.358 275.777,311.575 275.531,311.765 275.217,311.919 274.852,312.028" fill="none" stroke="#000" stroke-width="0.1375" stroke-linejoin="round"/>
+<polyline points="274.852,309.528 274.453,309.588 274.042,309.595 273.639,309.549 273.263,309.452 272.934,309.310 272.668,309.129 272.478,308.918 272.375,308.688 272.362,308.451 272.442,308.218 272.609,308.001 272.856,307.811 273.170,307.657 273.535,307.548 273.933,307.488 274.344,307.481 274.748,307.527 275.124,307.623 275.453,307.766 275.719,307.947 275.908,308.158 276.012,308.388 276.024,308.625 275.945,308.858 275.777,309.075 275.531,309.265 275.217,309.419 274.852,309.528" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round"/>
+<line x1="274.852" y1="312.028" x2="274.852" y2="309.528" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="273.535" y1="310.048" x2="273.535" y2="307.548" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<polygon points="266.85,311.30 266.45,311.36 266.04,311.37 265.63,311.32 265.26,311.23 264.93,311.08 264.66,310.90 264.47,310.69 264.37,310.46 264.36,310.22 264.44,309.99 264.61,309.77 264.85,309.58 265.17,309.43 265.53,309.32 265.93,309.26 266.34,309.25 266.74,309.30 267.12,309.40 267.45,309.54 267.72,309.72 267.90,309.93 268.01,310.16 268.02,310.40 267.94,310.63 267.77,310.85 267.53,311.04 267.21,311.19 266.85,311.30" fill="#e6e6e6" stroke="none"/>
+<polyline points="266.848,313.802 266.450,313.862 266.038,313.869 265.635,313.823 265.259,313.726 264.930,313.584 264.664,313.403 264.474,313.192 264.371,312.962 264.359,312.725 264.438,312.492 264.605,312.275 264.852,312.085 265.166,311.931 265.531,311.822 265.929,311.762 266.340,311.755 266.744,311.801 267.120,311.897 267.449,312.040 267.715,312.221 267.905,312.432 268.008,312.662 268.020,312.899 267.941,313.132 267.774,313.349 267.527,313.539 267.213,313.693 266.848,313.802" fill="none" stroke="#000" stroke-width="0.1375" stroke-linejoin="round"/>
+<polyline points="266.848,311.302 266.450,311.362 266.038,311.369 265.635,311.323 265.259,311.226 264.930,311.084 264.664,310.903 264.474,310.692 264.371,310.462 264.359,310.225 264.438,309.992 264.605,309.775 264.852,309.585 265.166,309.431 265.531,309.322 265.929,309.262 266.340,309.255 266.744,309.301 267.120,309.397 267.449,309.540 267.715,309.721 267.905,309.932 268.008,310.162 268.020,310.399 267.941,310.632 267.774,310.849 267.527,311.039 267.213,311.193 266.848,311.302" fill="none" stroke="#000" stroke-width="0.25" stroke-linejoin="round"/>
+<line x1="266.848" y1="313.802" x2="266.848" y2="311.302" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="265.531" y1="311.822" x2="265.531" y2="309.322" stroke="#000" stroke-width="0.25" stroke-linecap="butt"/>
+<line x1="281.216" y1="321.600" x2="293.216" y2="307.600" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="281.22" cy="321.60" r="0.5" fill="#000"/>
+<text x="294.22" y="308.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">MEC-108</text>
+<text x="348.00" y="254.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">支架立于 −Z 端板内侧;</text>
+<text x="348.00" y="259.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">3 只微动开关滚轮对准</text>
+<text x="348.00" y="264.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">S1/S2/S3 Ø4.4 孔(NC)。</text>
+<text x="246.00" y="128.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<line x1="246.000" y1="129.600" x2="408.000" y2="129.600" stroke="#000" stroke-width="0.4" stroke-linecap="butt"/>
+<text x="246.00" y="134.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">1. MEC-108:6061-T6 t=1.2 折弯,数量 1;</text>
+<text x="246.00" y="138.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   导电氧化;折弯内 R1.0;</text>
+<text x="246.00" y="143.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">2. 微动开关(SPDT 接 NC 触点)装于壁孔位,</text>
+<text x="246.00" y="147.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   滚轮对准 −Z 端板 S1/S2/S3 Ø4.4 孔;</text>
+<text x="246.00" y="152.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   压入深度调垫片 0.5-1.0mm 行程;</text>
+<text x="246.00" y="156.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">3. MEC-109:6061-T6 机加,数量 2;黑色阳极</text>
+<text x="246.00" y="161.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   氧化;装于 +Z 端板顶面(±Y 对称);</text>
+<text x="246.00" y="165.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">4. 绕线柱抛光 R0.5(防割伤天线钢丝带);</text>
+<text x="246.00" y="170.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">5. 质量目标:MEC-108 ≤12g;MEC-109 ≤10g。</text>
+</svg>

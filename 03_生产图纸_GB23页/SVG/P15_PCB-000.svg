@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect width="420.0" height="297.0" fill="#fff"/>
+<rect x="8.000" y="8.000" width="404.000" height="281.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="12.000" y="12.000" width="396.000" height="273.000" fill="none" stroke="#000" stroke-width="1.0"/>
+<line x1="210.000" y1="12.000" x2="210.000" y2="18.000" stroke="#000" stroke-width="0.5"/>
+<line x1="210.000" y1="285.000" x2="210.000" y2="279.000" stroke="#000" stroke-width="0.5"/>
+<line x1="12.000" y1="148.500" x2="18.000" y2="148.500" stroke="#000" stroke-width="0.5"/>
+<line x1="408.000" y1="148.500" x2="402.000" y2="148.500" stroke="#000" stroke-width="0.5"/>
+<rect x="228.000" y="233.000" width="180.000" height="52.000" fill="none" stroke="#000" stroke-width="1.0"/>
+<line x1="228.000" y1="243.000" x2="408.000" y2="243.000" stroke="#000" stroke-width="0.4"/>
+<line x1="228.000" y1="252.000" x2="408.000" y2="252.000" stroke="#000" stroke-width="0.4"/>
+<line x1="228.000" y1="260.000" x2="408.000" y2="260.000" stroke="#000" stroke-width="0.4"/>
+<line x1="228.000" y1="268.000" x2="408.000" y2="268.000" stroke="#000" stroke-width="0.4"/>
+<line x1="228.000" y1="277.000" x2="408.000" y2="277.000" stroke="#000" stroke-width="0.4"/>
+<line x1="312.000" y1="233.000" x2="312.000" y2="285.000" stroke="#000" stroke-width="0.5"/>
+<line x1="344.000" y1="233.000" x2="344.000" y2="285.000" stroke="#000" stroke-width="0.5"/>
+<text x="230.00" y="239.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">电路板外形图(E2/E7/E8/E9 通用)</text>
+<text x="230.00" y="255.40" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.3" text-anchor="start" font-weight="normal" fill="#555">材料标记</text>
+<text x="230.00" y="265.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.6" text-anchor="start" font-weight="normal" fill="#000">FR4 Tg150 4层 沉金</text>
+<text x="230.00" y="280.20" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#555">阶段标记:试制　重量:— g</text>
+<text x="320.00" y="239.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">设计</text>
+<line x1="328.000" y1="240.400" x2="352.000" y2="240.400" stroke="#999" stroke-width="0.15"/>
+<text x="352.00" y="239.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#555">2026-09</text>
+<line x1="312.000" y1="243.000" x2="344.000" y2="243.000" stroke="#000" stroke-width="0.3"/>
+<text x="320.00" y="249.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">制图</text>
+<line x1="328.000" y1="250.400" x2="352.000" y2="250.400" stroke="#999" stroke-width="0.15"/>
+<text x="352.00" y="249.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#555"></text>
+<line x1="312.000" y1="253.000" x2="344.000" y2="253.000" stroke="#000" stroke-width="0.3"/>
+<text x="320.00" y="259.30" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">审核</text>
+<line x1="328.000" y1="259.900" x2="352.000" y2="259.900" stroke="#999" stroke-width="0.15"/>
+<text x="352.00" y="259.30" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#555"></text>
+<line x1="312.000" y1="262.500" x2="344.000" y2="262.500" stroke="#000" stroke-width="0.3"/>
+<text x="320.00" y="268.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#555">批准</text>
+<line x1="328.000" y1="269.400" x2="352.000" y2="269.400" stroke="#999" stroke-width="0.15"/>
+<text x="352.00" y="268.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.5" text-anchor="middle" font-weight="normal" fill="#555"></text>
+<line x1="312.000" y1="272.000" x2="344.000" y2="272.000" stroke="#000" stroke-width="0.3"/>
+<text x="376.00" y="247.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="4.6" text-anchor="middle" font-weight="bold" fill="#000">PANO-3U-PCB-000</text>
+<line x1="344.000" y1="251.000" x2="408.000" y2="251.000" stroke="#000" stroke-width="0.4"/>
+<line x1="344.000" y1="277.000" x2="408.000" y2="277.000" stroke="#000" stroke-width="0.4"/>
+<text x="354.00" y="280.20" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#555">比例</text>
+<text x="354.00" y="284.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:1</text>
+<line x1="364.000" y1="277.000" x2="364.000" y2="285.000" stroke="#000" stroke-width="0.4"/>
+<text x="376.00" y="280.20" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#555">数量</text>
+<text x="376.00" y="284.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">4种</text>
+<line x1="388.000" y1="277.000" x2="388.000" y2="285.000" stroke="#000" stroke-width="0.4"/>
+<text x="398.00" y="280.20" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#555">版本</text>
+<text x="398.00" y="284.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">A</text>
+<text x="16.00" y="21.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="6" text-anchor="start" font-weight="bold" fill="#000">PANO-3U-PCB-000</text>
+<text x="16.00" y="28.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="normal" fill="#333">电路板外形图(E2/E7/E8/E9 通用)　|　生产图纸</text>
+<polyline points="374.200,42.000 372.000,45.800" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<polyline points="372.950,43.650 374.600,45.800" fill="none" stroke="#000" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="375.00" y="44.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">Ra 3.2</text>
+<text x="372.00" y="36.50" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="normal" fill="#000">其余</text>
+<polyline points="74.000,62.000 156.000,62.000 160.000,66.000 160.000,148.000 156.000,152.000 74.000,152.000 70.000,148.000 70.000,66.000 74.000,62.000" fill="none" stroke="#000" stroke-width="0.8" stroke-linejoin="round"/>
+<polyline points="115.000,56.000 115.000,158.000" fill="none" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4" stroke-linejoin="round"/>
+<polyline points="64.000,107.000 166.000,107.000" fill="none" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4" stroke-linejoin="round"/>
+<circle cx="77.000" cy="69.000" r="1.600" fill="none" stroke="#000" stroke-width="0.55"/>
+<line x1="75.200" y1="69.000" x2="77.000" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="69.000" x2="78.800" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="67.200" x2="77.000" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="69.000" x2="77.000" y2="70.800" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<circle cx="77.00" cy="69.00" r="0.45" fill="#000066"/>
+<circle cx="153.000" cy="69.000" r="1.600" fill="none" stroke="#000" stroke-width="0.55"/>
+<line x1="151.200" y1="69.000" x2="153.000" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="69.000" x2="154.800" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="67.200" x2="153.000" y2="69.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="69.000" x2="153.000" y2="70.800" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<circle cx="153.00" cy="69.00" r="0.45" fill="#000066"/>
+<circle cx="77.000" cy="145.000" r="1.600" fill="none" stroke="#000" stroke-width="0.55"/>
+<line x1="75.200" y1="145.000" x2="77.000" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="145.000" x2="78.800" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="143.200" x2="77.000" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="77.000" y1="145.000" x2="77.000" y2="146.800" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<circle cx="77.00" cy="145.00" r="0.45" fill="#000066"/>
+<circle cx="153.000" cy="145.000" r="1.600" fill="none" stroke="#000" stroke-width="0.55"/>
+<line x1="151.200" y1="145.000" x2="153.000" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="145.000" x2="154.800" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="143.200" x2="153.000" y2="145.000" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<line x1="153.000" y1="145.000" x2="153.000" y2="146.800" stroke="#000066" stroke-width="0.18" stroke-dasharray="7,1.4,1.4,1.4"/>
+<circle cx="153.00" cy="145.00" r="0.45" fill="#000066"/>
+<rect x="112.000" y="121.000" width="6.000" height="28.000" fill="none" stroke="#000" stroke-width="0.4" stroke-dasharray="2,0.8"/>
+<text x="115.00" y="108.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#555">J1 2×20P</text>
+<line x1="115.000" y1="58.800" x2="115.000" y2="72.000" stroke="#000" stroke-width="0.22"/>
+<line x1="205.000" y1="58.800" x2="205.000" y2="72.000" stroke="#000" stroke-width="0.22"/>
+<line x1="115.000" y1="70.000" x2="205.000" y2="70.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 115.00 70.00 L 118.20 69.40 L 118.20 70.60 Z" fill="#000"/>
+<path d="M 205.00 70.00 L 201.80 70.60 L 201.80 69.40 Z" fill="#000"/>
+<text x="160.00" y="68.68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">90±0.15</text>
+<line x1="208.200" y1="107.000" x2="195.000" y2="107.000" stroke="#000" stroke-width="0.22"/>
+<line x1="208.200" y1="197.000" x2="195.000" y2="197.000" stroke="#000" stroke-width="0.22"/>
+<line x1="197.000" y1="107.000" x2="197.000" y2="197.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 197.00 107.00 L 197.60 110.20 L 196.40 110.20 Z" fill="#000"/>
+<path d="M 197.00 197.00 L 196.40 193.80 L 197.60 193.80 Z" fill="#000"/>
+<text x="195.68" y="152.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 195.68 152.00)">90±0.15</text>
+<line x1="122.000" y1="114.800" x2="122.000" y2="124.000" stroke="#000" stroke-width="0.22"/>
+<line x1="198.000" y1="114.800" x2="198.000" y2="124.000" stroke="#000" stroke-width="0.22"/>
+<line x1="122.000" y1="122.000" x2="198.000" y2="122.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 122.00 122.00 L 125.20 121.40 L 125.20 122.60 Z" fill="#000"/>
+<path d="M 198.00 122.00 L 194.80 122.60 L 194.80 121.40 Z" fill="#000"/>
+<text x="160.00" y="120.68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">76±0.1</text>
+<line x1="198.800" y1="114.000" x2="208.000" y2="114.000" stroke="#000" stroke-width="0.22"/>
+<line x1="198.800" y1="190.000" x2="208.000" y2="190.000" stroke="#000" stroke-width="0.22"/>
+<line x1="206.000" y1="114.000" x2="206.000" y2="190.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 206.00 114.00 L 206.60 117.20 L 205.40 117.20 Z" fill="#000"/>
+<path d="M 206.00 190.00 L 205.40 186.80 L 206.60 186.80 Z" fill="#000"/>
+<text x="204.68" y="152.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 204.68 152.00)">76±0.1</text>
+<line x1="115.800" y1="62.000" x2="117.000" y2="62.000" stroke="#000" stroke-width="0.22"/>
+<line x1="119.800" y1="66.000" x2="117.000" y2="66.000" stroke="#000" stroke-width="0.22"/>
+<line x1="115.000" y1="62.000" x2="115.000" y2="66.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 115.00 62.00 L 115.60 65.20 L 114.40 65.20 Z" fill="#000"/>
+<path d="M 115.00 66.00 L 114.40 62.80 L 115.60 62.80 Z" fill="#000"/>
+<text x="113.68" y="64.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 113.68 64.00)"></text>
+<line x1="158.000" y1="108.000" x2="197.500" y2="60.000" stroke="#000" stroke-width="0.22"/>
+<line x1="197.500" y1="60.000" x2="200.000" y2="60.000" stroke="#000" stroke-width="0.22"/>
+<circle cx="158.00" cy="108.00" r="0.55" fill="#000"/>
+<text x="200.90" y="61.10" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">四角 45° 切口 ×4(详见 F)</text>
+<line x1="119.000" y1="111.000" x2="197.500" y2="76.000" stroke="#000" stroke-width="0.22"/>
+<line x1="197.500" y1="76.000" x2="200.000" y2="76.000" stroke="#000" stroke-width="0.22"/>
+<circle cx="119.00" cy="111.00" r="0.55" fill="#000"/>
+<text x="200.90" y="77.10" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">切口后与导轨净隙 ≥0.5(评审 E3)</text>
+<polyline points="268.000,131.000 268.000,152.000 280.000,164.000 301.000,164.000" fill="none" stroke="#000" stroke-width="0.8" stroke-linejoin="round"/>
+<clipPath id="g1"><polygon points="268.000,131.000 268.000,152.000 280.000,164.000 301.000,164.000 301.000,131.000"/></clipPath>
+<g clip-path="url(#g1)" stroke="#000" stroke-width="0.18">
+<line x1="246.08" y1="147.74" x2="284.74" y2="109.08"/>
+<line x1="247.14" y1="148.80" x2="285.80" y2="110.14"/>
+<line x1="248.20" y1="149.86" x2="286.86" y2="111.20"/>
+<line x1="249.26" y1="150.92" x2="287.92" y2="112.26"/>
+<line x1="250.32" y1="151.98" x2="288.98" y2="113.32"/>
+<line x1="251.38" y1="153.04" x2="290.04" y2="114.38"/>
+<line x1="252.44" y1="154.10" x2="291.10" y2="115.44"/>
+<line x1="253.50" y1="155.16" x2="292.16" y2="116.50"/>
+<line x1="254.56" y1="156.22" x2="293.22" y2="117.56"/>
+<line x1="255.63" y1="157.28" x2="294.28" y2="118.63"/>
+<line x1="256.69" y1="158.34" x2="295.34" y2="119.69"/>
+<line x1="257.75" y1="159.40" x2="296.40" y2="120.75"/>
+<line x1="258.81" y1="160.46" x2="297.46" y2="121.81"/>
+<line x1="259.87" y1="161.53" x2="298.53" y2="122.87"/>
+<line x1="260.93" y1="162.59" x2="299.59" y2="123.93"/>
+<line x1="261.99" y1="163.65" x2="300.65" y2="124.99"/>
+<line x1="263.05" y1="164.71" x2="301.71" y2="126.05"/>
+<line x1="264.11" y1="165.77" x2="302.77" y2="127.11"/>
+<line x1="265.17" y1="166.83" x2="303.83" y2="128.17"/>
+<line x1="266.23" y1="167.89" x2="304.89" y2="129.23"/>
+<line x1="267.29" y1="168.95" x2="305.95" y2="130.29"/>
+<line x1="268.35" y1="170.01" x2="307.01" y2="131.35"/>
+<line x1="269.41" y1="171.07" x2="308.07" y2="132.41"/>
+<line x1="270.47" y1="172.13" x2="309.13" y2="133.47"/>
+<line x1="271.54" y1="173.19" x2="310.19" y2="134.54"/>
+<line x1="272.60" y1="174.25" x2="311.25" y2="135.60"/>
+<line x1="273.66" y1="175.31" x2="312.31" y2="136.66"/>
+<line x1="274.72" y1="176.37" x2="313.37" y2="137.72"/>
+<line x1="275.78" y1="177.44" x2="314.44" y2="138.78"/>
+<line x1="276.84" y1="178.50" x2="315.50" y2="139.84"/>
+<line x1="277.90" y1="179.56" x2="316.56" y2="140.90"/>
+<line x1="278.96" y1="180.62" x2="317.62" y2="141.96"/>
+<line x1="280.02" y1="181.68" x2="318.68" y2="143.02"/>
+<line x1="281.08" y1="182.74" x2="319.74" y2="144.08"/>
+<line x1="282.14" y1="183.80" x2="320.80" y2="145.14"/>
+<line x1="283.20" y1="184.86" x2="321.86" y2="146.20"/>
+<line x1="284.26" y1="185.92" x2="322.92" y2="147.26"/>
+</g>
+<line x1="267.200" y1="152.000" x2="256.000" y2="152.000" stroke="#000" stroke-width="0.22"/>
+<line x1="267.200" y1="164.000" x2="256.000" y2="164.000" stroke="#000" stroke-width="0.22"/>
+<line x1="258.000" y1="152.000" x2="258.000" y2="164.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 258.00 152.00 L 258.60 155.20 L 257.40 155.20 Z" fill="#000"/>
+<path d="M 258.00 164.00 L 257.40 160.80 L 258.60 160.80 Z" fill="#000"/>
+<text x="256.68" y="158.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 256.68 158.00)">4±0.2</text>
+<line x1="268.000" y1="164.800" x2="268.000" y2="176.000" stroke="#000" stroke-width="0.22"/>
+<line x1="280.000" y1="164.800" x2="280.000" y2="176.000" stroke="#000" stroke-width="0.22"/>
+<line x1="268.000" y1="174.000" x2="280.000" y2="174.000" stroke="#000" stroke-width="0.22"/>
+<path d="M 268.00 174.00 L 271.20 173.40 L 271.20 174.60 Z" fill="#000"/>
+<path d="M 280.00 174.00 L 276.80 174.60 L 276.80 173.40 Z" fill="#000"/>
+<text x="274.00" y="172.68" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">4±0.2</text>
+<line x1="275.200" y1="156.800" x2="297.500" y2="134.000" stroke="#000" stroke-width="0.22"/>
+<line x1="297.500" y1="134.000" x2="300.000" y2="134.000" stroke="#000" stroke-width="0.22"/>
+<circle cx="275.20" cy="156.80" r="0.55" fill="#000"/>
+<text x="300.90" y="135.10" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">45°</text>
+<text x="282.00" y="126.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">切角详图 (3:1) 四角相同</text>
+<circle cx="158.000" cy="108.000" r="7.000" fill="none" stroke="#000" stroke-width="0.25"/>
+<line x1="162.950" y1="103.050" x2="188.000" y2="116.000" stroke="#000" stroke-width="0.22"/>
+<line x1="188.000" y1="116.000" x2="202.000" y2="116.000" stroke="#000" stroke-width="0.22"/>
+<text x="202.80" y="117.10" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">F (3:1)</text>
+<text x="20.00" y="234.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<text x="20.00" y="241.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">1. 本图为 E2/E7/E8/E9 四种电路板通用外形;板名以丝印区分(每板左上角丝印板名+版本);</text>
+<text x="20.00" y="245.20" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">2. 材料:FR4,Tg≥150°C,4 层(TOP/GND/PWR/BOT),板厚 1.6±0.16,沉金;</text>
+<text x="20.00" y="249.40" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">3. MIPI 差分 100Ω±10% 等长 ±0.5 mm;5V 铜箔≥0.5 mm,VBAT≥0.8 mm;</text>
+<text x="20.00" y="253.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">4. 安装孔 4×Ø3.2 金属化,与安装孔连接的地过孔阵列参照 Layout 规范;</text>
+<text x="20.00" y="257.80" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">5. 验收:IPC-6012 Class 2,附阻抗报告与飞测报告;</text>
+<text x="20.00" y="262.00" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="3.1" text-anchor="start" font-weight="normal" fill="#000">6. 四角切口后与导轨理论净隙 ≥0.5(总装试装验证)。</text>
+<rect x="228.000" y="193.000" width="180.000" height="6.500" fill="none" stroke="#000" stroke-width="0.4"/>
+<line x1="236.000" y1="193.000" x2="236.000" y2="199.500" stroke="#000" stroke-width="0.3"/>
+<line x1="258.000" y1="193.000" x2="258.000" y2="199.500" stroke="#000" stroke-width="0.3"/>
+<line x1="348.000" y1="193.000" x2="348.000" y2="199.500" stroke="#000" stroke-width="0.3"/>
+<text x="232.00" y="197.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A</text>
+<text x="247.00" y="197.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.7" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="261.00" y="197.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">v4 评审版发布</text>
+<text x="356.00" y="197.60" font-family="'Segoe UI','Microsoft YaHei',sans-serif" font-size="2.7" text-anchor="middle" font-weight="normal" fill="#000">设计</text>
+</svg>

@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">BAT-401</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:1</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">电池舱组件(装配图)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">4×NCR18650B(2S2P, 49Wh) · MEC-106 抱箍×4 · 加热膜×2+KSD9700 · BMS(DW01+8205)</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1套</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">17/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">BAT-401　电池舱组件(装配图)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">4×NCR18650B(2S2P, 49Wh) · MEC-106 抱箍×4 · 加热膜×2+KSD9700 · BMS(DW01+8205)</text>
+<polyline points="64.075,173.250 142.925,173.250 142.925,74.450 64.075,74.450 64.075,173.250" fill="none" stroke="#000" stroke-width="0.6" stroke-linejoin="round"/>
+<rect x="73.765" y="93.070" width="17.670" height="62.130" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="82.56" y="123.85" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">18650</text>
+<line x1="73.765" y1="96.300" x2="91.435" y2="96.300" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<rect x="91.815" y="93.070" width="17.670" height="62.130" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="100.61" y="123.85" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">18650</text>
+<line x1="91.815" y1="96.300" x2="109.485" y2="96.300" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<rect x="97.515" y="93.070" width="17.670" height="62.130" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="106.31" y="123.85" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">18650</text>
+<line x1="97.515" y1="96.300" x2="115.185" y2="96.300" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<rect x="115.565" y="93.070" width="17.670" height="62.130" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="124.36" y="123.85" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.1" text-anchor="middle" font-weight="normal" fill="#000">18650</text>
+<line x1="115.565" y1="96.300" x2="133.235" y2="96.300" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<polyline points="91.625,166.600 91.625,81.100" fill="none" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linejoin="round"/>
+<polyline points="115.375,166.600 115.375,81.100" fill="none" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linejoin="round"/>
+<line x1="71.200" y1="165.650" x2="135.800" y2="165.650" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="71.200" y1="162.800" x2="135.800" y2="162.800" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="71.200" y1="165.650" x2="71.200" y2="162.800" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="135.800" y1="165.650" x2="135.800" y2="162.800" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="71.200" y1="89.650" x2="135.800" y2="89.650" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="71.200" y1="86.800" x2="135.800" y2="86.800" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="71.200" y1="89.650" x2="71.200" y2="86.800" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="135.800" y1="89.650" x2="135.800" y2="86.800" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<line x1="135.800" y1="88.225" x2="177.000" y2="118.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="177.000" y1="118.000" x2="180.000" y2="118.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="135.80" cy="88.23" r="0.5" fill="#000"/>
+<text x="180.00" y="119.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">MEC-106 抱箍 ×4
+(z=131/211,±Y 各 2)</text>
+<line x1="124.400" y1="123.850" x2="193.000" y2="152.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="193.000" y1="152.000" x2="196.000" y2="152.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="124.40" cy="123.85" r="0.5" fill="#000"/>
+<text x="196.00" y="153.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">NCR18650B 3400mAh
+(每±Y侧 2 并联=2P)</text>
+<rect x="65.500" y="109.600" width="2.500" height="28.500" fill="none" stroke="#000" stroke-width="0.4" stroke-dasharray="2,1"/>
+<rect x="139.125" y="109.600" width="2.500" height="28.500" fill="none" stroke="#000" stroke-width="0.4" stroke-dasharray="2,1"/>
+<line x1="140.265" y1="123.850" x2="193.000" y2="190.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="193.000" y1="190.000" x2="196.000" y2="190.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="140.26" cy="123.85" r="0.5" fill="#000"/>
+<text x="196.00" y="191.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">加热膜 5V/3W ×2
+(贴支架外壁,KSD9700 串联)</text>
+<rect x="84.500" y="79.200" width="22.000" height="6.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="90.19" y="79.78" width="9.53" height="3.70" fill="#fff" opacity="0.92"/>
+<text x="94.95" y="81.58" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.3" text-anchor="middle" font-weight="normal" fill="#000">BMS 2S</text>
+<line x1="105.400" y1="82.050" x2="147.000" y2="96.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="147.000" y1="96.000" x2="150.000" y2="96.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="105.40" cy="82.05" r="0.5" fill="#000"/>
+<text x="150.00" y="97.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">BMS(DW01+8205, 5A)
+过充/过放/短路保护</text>
+<circle cx="78.800" cy="86.800" r="1.600" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="74.80" y="89.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="start" font-weight="normal" fill="#000">DS18B20×2</text>
+<text x="103.50" y="86.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="middle" font-weight="bold" fill="#000">电池舱剖视(X–Z,1:1.05)</text>
+<line x1="64.075" y1="80.000" x2="142.925" y2="80.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 64.08 80.00 L 66.28 79.30 L 66.28 80.70 Z" fill="#000"/>
+<path d="M 142.93 80.00 L 140.73 79.30 L 140.73 80.70 Z" fill="#000"/>
+<text x="103.50" y="78.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">83(舱内净宽)</text>
+<line x1="44.000" y1="74.450" x2="44.000" y2="173.250" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 44.00 74.45 L 43.30 76.65 L 44.70 76.65 Z" fill="#000"/>
+<path d="M 44.00 173.25 L 43.30 171.05 L 44.70 171.05 Z" fill="#000"/>
+<text x="42.90" y="123.85" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 42.90 123.85)">104 (z=123–227)</text>
+<text x="252.00" y="50.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">2S2P 连接 + 保护/加热回路</text>
+<rect x="258.000" y="86.000" width="24.000" height="14.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="270.00" y="94.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">P1</text>
+<rect x="258.000" y="52.000" width="24.000" height="14.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="270.00" y="60.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">P2</text>
+<rect x="304.000" y="86.000" width="24.000" height="14.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="94.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">P3</text>
+<rect x="304.000" y="52.000" width="24.000" height="14.000" fill="none" stroke="#000" stroke-width="0.5"/>
+<text x="316.00" y="60.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">P4</text>
+<line x1="254.000" y1="100.000" x2="254.000" y2="66.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="254.000" y1="93.000" x2="258.000" y2="93.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="254.000" y1="73.000" x2="258.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="282.000" y1="93.000" x2="286.000" y2="93.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="282.000" y1="73.000" x2="286.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="286.000" y1="93.000" x2="286.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="300.000" y1="93.000" x2="304.000" y2="93.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="300.000" y1="73.000" x2="304.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="300.000" y1="93.000" x2="300.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="328.000" y1="93.000" x2="332.000" y2="93.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="328.000" y1="73.000" x2="332.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="332.000" y1="93.000" x2="332.000" y2="73.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="286.000" y1="68.000" x2="286.000" y2="60.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="286.000" y1="60.000" x2="300.000" y2="60.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="300.000" y1="60.000" x2="300.000" y2="70.000" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<text x="293.00" y="64.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.2" text-anchor="middle" font-weight="normal" fill="#000">串接点</text>
+<line x1="254.000" y1="100.000" x2="254.000" y2="118.000" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="256.00" y="122.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">BAT+ → BMS → SW1-3 → RBF → EPS</text>
+<line x1="332.000" y1="66.000" x2="332.000" y2="58.000" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="334.00" y="58.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">BAT−</text>
+<text x="252.00" y="190.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">电池舱参数</text>
+<text x="253.00" y="195.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="bold" fill="#000">编号</text>
+<text x="269.00" y="195.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="bold" fill="#000">X (mm)</text>
+<text x="297.00" y="195.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="bold" fill="#000">Y (mm)</text>
+<text x="325.00" y="195.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="bold" fill="#000">规格</text>
+<line x1="252.000" y1="196.900" x2="342.000" y2="196.900" stroke="#000" stroke-width="0.35" stroke-linecap="butt"/>
+<text x="253.00" y="200.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">电芯</text>
+<text x="269.00" y="200.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">NCR18650B</text>
+<text x="297.00" y="200.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">3400mAh</text>
+<text x="325.00" y="200.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">×4</text>
+<text x="253.00" y="204.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">组态</text>
+<text x="269.00" y="204.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">2S2P</text>
+<text x="297.00" y="204.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">7.4V</text>
+<text x="325.00" y="204.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">49Wh</text>
+<text x="253.00" y="208.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">保护</text>
+<text x="269.00" y="208.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">DW01+8205</text>
+<text x="297.00" y="208.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">5A</text>
+<text x="325.00" y="208.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">BMS 2S</text>
+<text x="253.00" y="212.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">加热</text>
+<text x="269.00" y="212.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">聚酰亚胺</text>
+<text x="297.00" y="212.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">5V/3W</text>
+<text x="325.00" y="212.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">×2</text>
+<text x="253.00" y="216.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">温控</text>
+<text x="269.00" y="216.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">KSD9700</text>
+<text x="297.00" y="216.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">5°C 闭/8°C 断</text>
+<text x="325.00" y="216.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">×2</text>
+<text x="253.00" y="221.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">测温</text>
+<text x="269.00" y="221.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">DS18B20</text>
+<text x="297.00" y="221.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">1-Wire</text>
+<text x="325.00" y="221.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.55" text-anchor="start" font-weight="normal" fill="#000">×2</text>
+<line x1="252.000" y1="197.700" x2="342.000" y2="197.700" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="252.00" y="128.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<line x1="252.000" y1="129.600" x2="408.000" y2="129.600" stroke="#000" stroke-width="0.4" stroke-linecap="butt"/>
+<text x="252.00" y="134.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">1. 电池组装入 MEC-106 支架,内衬绒毡;</text>
+<text x="252.00" y="138.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">2. 镍点焊镍片串并联,套蓝色热缩管;</text>
+<text x="252.00" y="142.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">3. 冷工况修订:电池包加 MLI 多层隔热;</text>
+<text x="252.00" y="147.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   加热 2→3W(LT3652 NTC 0°C 禁充电);</text>
+<text x="252.00" y="151.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">4. 修订后冷工况 −12~+8°C(原 −21°C);</text>
+<text x="252.00" y="155.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">5. 日食放电深度仅 7%(49Wh vs 日耗 30Wh);</text>
+<text x="252.00" y="160.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">6. 振动试验后复测绝缘 ≥10MΩ。</text>
+</svg>

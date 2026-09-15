@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ASM-001</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:2</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">整星三视图(包络 100×100×340.5)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">主视(−Y向) / 左视(+X向) / 俯视(+Z向) · CDS Rev.14 包络检验</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">2/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ASM-001　整星三视图(包络 100×100×340.5)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">主视(−Y向) / 左视(+X向) / 俯视(+Z向) · CDS Rev.14 包络检验</text>
+<polyline points="64.000,52.000 116.000,52.000 116.000,229.060 64.000,229.060 64.000,52.000" fill="none" stroke="#000" stroke-width="0.7" stroke-linejoin="round"/>
+<line x1="64.000" y1="228.020" x2="116.000" y2="228.020" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="64.000" y1="53.040" x2="116.000" y2="53.040" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="68.420" y1="228.020" x2="68.420" y2="53.040" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="111.580" y1="228.020" x2="111.580" y2="53.040" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="68.420" y1="152.100" x2="111.580" y2="152.100" stroke="#000" stroke-width="0.3" stroke-dasharray="4,2" stroke-linecap="butt"/>
+<line x1="68.420" y1="129.220" x2="111.580" y2="129.220" stroke="#000" stroke-width="0.3" stroke-dasharray="4,2" stroke-linecap="butt"/>
+<circle cx="90.000" cy="140.660" r="6.760" fill="none" stroke="#000" stroke-width="0.45"/>
+<line x1="82.000" y1="140.660" x2="98.000" y2="140.660" stroke="#000055" stroke-width="0.2" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<line x1="90.000" y1="132.660" x2="90.000" y2="148.660" stroke="#000055" stroke-width="0.2" stroke-dasharray="3,1,0.8,1" stroke-linecap="butt"/>
+<rect x="60.880" y="134.420" width="3.120" height="12.480" fill="none" stroke="#000" stroke-width="0.45"/>
+<rect x="116.000" y="134.420" width="3.120" height="12.480" fill="none" stroke="#000" stroke-width="0.45"/>
+<polyline points="68.420,165.100 111.580,165.100" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1.2" stroke-linejoin="round"/>
+<polyline points="68.420,111.020 111.580,111.020" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1.2" stroke-linejoin="round"/>
+<text x="90.00" y="237.38" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">主视图(−Y 向)</text>
+<text x="90.00" y="244.66" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="middle" font-weight="normal" fill="#000">±X 侧板:相机窗Ø26×2 + 太阳片16/面(让窗)</text>
+<line x1="50.000" y1="52.000" x2="50.000" y2="229.060" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 50.00 52.00 L 49.30 54.20 L 50.70 54.20 Z" fill="#000"/>
+<path d="M 50.00 229.06 L 49.30 226.86 L 50.70 226.86 Z" fill="#000"/>
+<text x="48.90" y="140.53" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 48.90 140.53)">340.5±0.3</text>
+<line x1="64.000" y1="41.000" x2="116.000" y2="41.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 64.00 41.00 L 66.20 40.30 L 66.20 41.70 Z" fill="#000"/>
+<path d="M 116.00 41.00 L 113.80 40.30 L 113.80 41.70 Z" fill="#000"/>
+<text x="90.00" y="39.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="middle" font-weight="normal" fill="#000">100±0.1</text>
+<line x1="60.880" y1="33.000" x2="64.000" y2="33.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 60.88 33.00 L 63.08 32.30 L 63.08 33.70 Z" fill="#000"/>
+<path d="M 64.00 33.00 L 61.80 32.30 L 61.80 33.70 Z" fill="#000"/>
+<text x="62.44" y="31.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">≤6.0</text>
+<line x1="116.000" y1="33.000" x2="119.120" y2="33.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 116.00 33.00 L 118.20 32.30 L 118.20 33.70 Z" fill="#000"/>
+<path d="M 119.12 33.00 L 116.92 32.30 L 116.92 33.70 Z" fill="#000"/>
+<text x="117.56" y="31.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="middle" font-weight="normal" fill="#000">≤6.0</text>
+<line x1="117.560" y1="140.660" x2="143.000" y2="92.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<line x1="143.000" y1="92.000" x2="146.000" y2="92.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="117.56" cy="140.66" r="0.5" fill="#000"/>
+<text x="146.00" y="93.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">镜头筒Ø24 外伸6.0(CDS≤6.5)</text>
+<line x1="116.520" y1="228.020" x2="118.600" y2="228.020" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="116.520" y1="213.460" x2="118.600" y2="213.460" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="119.12" y="220.74" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">0–30 −Z端板/开关区</text>
+<line x1="116.520" y1="213.460" x2="118.600" y2="213.460" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="116.520" y1="165.100" x2="118.600" y2="165.100" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="119.12" y="189.28" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">30–123 电子堆栈区</text>
+<line x1="116.520" y1="165.100" x2="118.600" y2="165.100" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="116.520" y1="111.020" x2="118.600" y2="111.020" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="119.12" y="138.06" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">123–227 电池舱(4×18650)</text>
+<line x1="116.520" y1="111.020" x2="118.600" y2="111.020" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="116.520" y1="53.040" x2="118.600" y2="53.040" stroke="#000" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="119.12" y="82.03" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">227–338.5 +Z舱/走线</text>
+<polyline points="186.000,52.000 238.000,52.000 238.000,229.060 186.000,229.060 186.000,52.000" fill="none" stroke="#000" stroke-width="0.7" stroke-linejoin="round"/>
+<line x1="186.000" y1="228.020" x2="238.000" y2="228.020" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="186.000" y1="53.040" x2="238.000" y2="53.040" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="190.420" y1="228.020" x2="190.420" y2="53.040" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="233.580" y1="228.020" x2="233.580" y2="53.040" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="201.210" y1="216.060" x2="201.210" y2="65.000" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="212.000" y1="216.060" x2="212.000" y2="65.000" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="222.790" y1="216.060" x2="222.790" y2="65.000" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="190.420" y1="185.848" x2="233.580" y2="185.848" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="190.420" y1="155.636" x2="233.580" y2="155.636" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="190.420" y1="125.424" x2="233.580" y2="125.424" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="190.420" y1="95.212" x2="233.580" y2="95.212" stroke="#777" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="212.00" y="44.98" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">左视图(+X 向)</text>
+<text x="212.00" y="49.14" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="middle" font-weight="normal" fill="#000">±Y 侧板:太阳片 20 片/面(4×5, 22.6×34/片)</text>
+<text x="212.00" y="138.06" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">电 池 舱</text>
+<line x1="190.420" y1="236.060" x2="233.580" y2="236.060" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 190.42 236.06 L 192.62 235.36 L 192.62 236.76 Z" fill="#000"/>
+<path d="M 233.58 236.06 L 231.38 235.36 L 231.38 236.76 Z" fill="#000"/>
+<text x="212.00" y="234.96" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">83(侧板净宽)</text>
+<line x1="186.000" y1="242.060" x2="238.000" y2="242.060" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 186.00 242.06 L 188.20 241.36 L 188.20 242.76 Z" fill="#000"/>
+<path d="M 238.00 242.06 L 235.80 241.36 L 235.80 242.76 Z" fill="#000"/>
+<text x="212.00" y="240.96" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="middle" font-weight="normal" fill="#000">100</text>
+<polyline points="316.000,198.000 358.000,198.000 358.000,156.000 316.000,156.000 316.000,198.000" fill="none" stroke="#000" stroke-width="0.7" stroke-linejoin="round"/>
+<polyline points="316.000,159.570 319.570,159.570 319.570,156.000 316.000,156.000 316.000,159.570" fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round"/>
+<polyline points="316.000,198.000 319.570,198.000 319.570,194.430 316.000,194.430 316.000,198.000" fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round"/>
+<polyline points="354.430,159.570 358.000,159.570 358.000,156.000 354.430,156.000 354.430,159.570" fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round"/>
+<polyline points="354.430,198.000 358.000,198.000 358.000,194.430 354.430,194.430 354.430,198.000" fill="none" stroke="#000" stroke-width="0.45" stroke-linejoin="round"/>
+<polyline points="358.000,182.040 360.520,182.040 360.520,171.960 358.000,171.960 358.000,182.040" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1.2" stroke-linejoin="round"/>
+<polyline points="313.480,182.040 316.000,182.040 316.000,171.960 313.480,171.960 313.480,182.040" fill="none" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1.2" stroke-linejoin="round"/>
+<polyline points="337.000,152.640 337.000,201.360" fill="none" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linejoin="round"/>
+<polyline points="312.640,177.000 361.360,177.000" fill="none" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linejoin="round"/>
+<text x="337.00" y="148.44" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">俯视图(+Z 向)</text>
+<text x="337.00" y="204.72" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">四角导轨 8.5×8.5;</text>
+<text x="337.00" y="208.08" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">±X 镜头凸(虚线)</text>
+<text x="288.00" y="56.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="start" font-weight="bold" fill="#000">包络与布局说明</text>
+<text x="288.00" y="61.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">1. 包络 100.0×100.0×340.5mm,满足 CDS Rev.14 3U 构型;</text>
+<text x="288.00" y="66.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">2. ±Z 端面无任何凸起;侧面凸起仅相机镜头 ≤6.0mm(&lt;6.5);</text>
+<text x="288.00" y="71.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">3. 导轨 4 条 8.5×8.5,轨道中心距 91.5×91.5,硬质阳极氧化;</text>
+<text x="288.00" y="76.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">4. 侧板 4 面 t1.5,太阳片 72 片:±Y 20 片/面(20S1P 11.4V),</text>
+<text x="288.00" y="81.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">    ±X 16 片/面(16S1P 9.1V),均在 LT3652 输入范围;</text>
+<text x="288.00" y="86.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">5. 相机模组对置 ±X 侧板,窗中心(Z=170, Y=50),重叠区 15°;</text>
+<text x="288.00" y="91.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">6. 质心 z≈147mm(低于几何中心 170mm);总质量 2.83kg;</text>
+<text x="288.00" y="96.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">7. 未注孔位公差 ±0.05,加工以 DXF 为准。</text>
+</svg>

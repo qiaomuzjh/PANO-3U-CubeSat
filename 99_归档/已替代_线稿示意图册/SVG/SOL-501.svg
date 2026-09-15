@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">SOL-501</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:2</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">太阳电池阵铺贴图(4 面展开)</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">72 片 Maxeon Gen3 22.6×34(0.256W BOL) · ±Y 20S1P(11.4V) · ±X 16S1P(9.1V) · 3M966 贴片</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">72片</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">20/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">SOL-501　太阳电池阵铺贴图(4 面展开)</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">72 片 Maxeon Gen3 22.6×34(0.256W BOL) · ±Y 20S1P(11.4V) · ±X 16S1P(9.1V) · 3M966 贴片</text>
+<polyline points="34.000,96.000 177.010,96.000 177.010,61.140 34.000,61.140 34.000,96.000" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<rect x="41.560" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="41.560" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="51.682" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="51.682" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="61.804" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="61.804" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="71.926" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="71.926" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="86.500" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="86.500" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="96.622" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="96.622" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="106.744" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="106.744" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="131.440" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="131.440" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="141.562" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="141.562" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="151.684" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="151.684" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<text x="63.40" y="104.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">+Y 面 20S1P(Vmp 11.4V)(20 片)</text>
+<polyline points="238.000,96.000 381.010,96.000 381.010,61.140 238.000,61.140 238.000,96.000" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<rect x="245.560" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="245.560" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="255.682" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="255.682" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="265.804" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="265.804" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="275.926" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="275.926" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="290.500" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="290.500" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="300.622" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="300.622" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="310.744" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="310.744" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="335.440" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="335.440" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="345.562" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="345.562" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="355.684" y="78.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="355.684" y="63.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<text x="267.40" y="104.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">−Y 面 20S1P(20 片)</text>
+<polyline points="34.000,218.000 177.010,218.000 177.010,183.140 34.000,183.140 34.000,218.000" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<rect x="41.560" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="41.560" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="51.682" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="51.682" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="61.804" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="61.804" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="131.440" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="131.440" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="141.562" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="141.562" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="151.684" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="151.684" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="88.180" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="88.180" y="186.080" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="99.100" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="99.100" y="186.080" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="105.400" cy="200.570" r="5.460" fill="none" stroke="#000" stroke-width="0.4" stroke-dasharray="3,2"/>
+<text x="63.40" y="226.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">+X 面 16S1P(Vmp 9.1V)(16 片)</text>
+<polyline points="238.000,218.000 381.010,218.000 381.010,183.140 238.000,183.140 238.000,218.000" fill="none" stroke="#000" stroke-width="0.55" stroke-linejoin="round"/>
+<rect x="245.560" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="245.560" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="255.682" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="255.682" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="265.804" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="265.804" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="335.440" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="335.440" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="345.562" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="345.562" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="355.684" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="355.684" y="185.240" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="292.180" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="292.180" y="186.080" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="303.100" y="200.780" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<rect x="303.100" y="186.080" width="9.492" height="14.280" fill="none" stroke="#000" stroke-width="0.25"/>
+<circle cx="309.400" cy="200.570" r="5.460" fill="none" stroke="#000" stroke-width="0.4" stroke-dasharray="3,2"/>
+<text x="267.40" y="226.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="bold" fill="#000">−X 面 16S1P(16 片)</text>
+<text x="40.00" y="258.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">电路:每面 1 串 → JST-XH 2P → EPS(J4-J7);SS34 旁路二极管每串 2 只(共 8); TVS SMBJ15A 板端</text>
+<text x="40.00" y="253.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">BOL 总功率 18.4W(OAP 3.4W);日发电 ≈74Wh vs 日耗 ≈30Wh(裕量 2.5×);LT3652×4 每面独立 MPPT</text>
+<text x="262.00" y="140.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.3" text-anchor="start" font-weight="bold" fill="#000">技术要求</text>
+<line x1="262.000" y1="141.600" x2="408.000" y2="141.600" stroke="#000" stroke-width="0.4" stroke-linecap="butt"/>
+<text x="262.00" y="146.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">1. 片 22.6×34 切割片,0.256W/片 BOL;</text>
+<text x="262.00" y="150.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">2. 贴片:3M 966 胶带,贴片区(92×71×3 段)</text>
+<text x="262.00" y="154.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">   导电氧化面;贴片前等离子清洗;</text>
+<text x="262.00" y="159.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">3. 互连条焊接后点 CW2400 导电胶补强;</text>
+<text x="262.00" y="163.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">4. 旁路二极管 SS34 每串 2 只,共 8 只;</text>
+<text x="262.00" y="167.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">5. 引线经 MEC-103B P1 Ø6 孔入舱(护套);</text>
+<text x="262.00" y="172.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">6. 贴片后测母线-结构绝缘 ≥10 MΩ(A10);</text>
+<text x="262.00" y="176.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.75" text-anchor="start" font-weight="normal" fill="#000">7. ±X 面中段让位于相机窗(Ø26)。</text>
+</svg>

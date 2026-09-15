@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">ASM-000</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1:2.2</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 总体视图与技术指标</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">双鱼眼全景立方星 · 全套线稿图纸册 · 封面</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">1/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">ASM-000　PANO-3U 总体视图与技术指标</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">双鱼眼全景立方星 · 全套线稿图纸册 · 封面</text>
+<polygon points="97.10,228.31 109.58,251.88 109.58,110.55 97.10,86.98" fill="#fafafa" stroke="#000" stroke-width="0.5" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="109.58,251.88 68.75,259.09 68.75,117.76 109.58,110.55" fill="#efefef" stroke="#000" stroke-width="0.5" opacity="1.0" stroke-linejoin="round"/>
+<line x1="109.580" y1="214.085" x2="68.751" y2="221.292" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="109.580" y1="188.045" x2="68.751" y2="195.252" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="109.580" y1="162.005" x2="68.751" y2="169.212" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="109.580" y1="135.965" x2="68.751" y2="143.172" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="99.372" y1="241.927" x2="99.372" y2="112.357" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="89.165" y1="243.728" x2="89.165" y2="114.158" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="78.958" y1="245.530" x2="78.958" y2="115.960" stroke="#888" stroke-width="0.2" stroke-linecap="butt"/>
+<polygon points="100.00,225.16 115.04,253.56 65.85,262.24 50.81,233.84" fill="#f2f2f2" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="100.00,226.00 100.00,225.16 50.81,233.84 50.81,234.68" fill="#e2e2e2" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="100.00,226.00 115.04,254.40 115.04,253.56 100.00,225.16" fill="#ececec" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="100.00,82.99 115.04,111.39 65.85,120.07 50.81,91.67" fill="#f2f2f2" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="100.00,83.83 100.00,82.99 50.81,91.67 50.81,92.51" fill="#e2e2e2" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="100.00,83.83 115.04,112.23 115.04,111.39 100.00,82.99" fill="#ececec" stroke="#000" stroke-width="0.6" opacity="1.0" stroke-linejoin="round"/>
+<line x1="100.000" y1="83.830" x2="101.278" y2="86.244" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="101.278" y1="86.244" x2="97.097" y2="86.982" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="97.097" y1="86.982" x2="95.819" y2="84.568" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="95.819" y1="84.568" x2="100.000" y2="83.830" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="100.000" y1="225.160" x2="100.000" y2="83.830" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="101.278" y1="227.574" x2="101.278" y2="86.244" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="95.819" y1="225.898" x2="95.819" y2="84.568" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="97.097" y1="228.312" x2="97.097" y2="86.982" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="100.000" y1="225.160" x2="101.278" y2="227.574" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="101.278" y1="227.574" x2="97.097" y2="228.312" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="54.990" y1="91.775" x2="56.268" y2="94.189" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="56.268" y1="94.189" x2="52.087" y2="94.927" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="52.087" y1="94.927" x2="50.808" y2="92.513" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="50.808" y1="92.513" x2="54.990" y2="91.775" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="54.990" y1="233.105" x2="54.990" y2="91.775" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="56.268" y1="235.519" x2="56.268" y2="94.189" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="50.808" y1="233.843" x2="50.808" y2="92.513" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="52.087" y1="236.257" x2="52.087" y2="94.927" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="54.990" y1="233.105" x2="56.268" y2="235.519" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="56.268" y1="235.519" x2="52.087" y2="236.257" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="113.761" y1="109.817" x2="115.039" y2="112.231" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="115.039" y1="112.231" x2="110.858" y2="112.969" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="110.858" y1="112.969" x2="109.580" y2="110.555" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="109.580" y1="110.555" x2="113.761" y2="109.817" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="113.761" y1="251.147" x2="113.761" y2="109.817" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="115.039" y1="253.561" x2="115.039" y2="112.231" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="109.580" y1="251.885" x2="109.580" y2="110.555" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="110.858" y1="254.299" x2="110.858" y2="112.969" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="113.761" y1="251.147" x2="115.039" y2="253.561" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="115.039" y1="253.561" x2="110.858" y2="254.299" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.751" y1="117.762" x2="70.029" y2="120.176" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="70.029" y1="120.176" x2="65.848" y2="120.914" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="65.848" y1="120.914" x2="64.569" y2="118.500" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="64.569" y1="118.500" x2="68.751" y2="117.762" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.751" y1="259.092" x2="68.751" y2="117.762" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="70.029" y1="261.506" x2="70.029" y2="120.176" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="64.569" y1="259.830" x2="64.569" y2="118.500" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="65.848" y1="262.244" x2="65.848" y2="120.914" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="68.751" y1="259.092" x2="70.029" y2="261.506" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="70.029" y1="261.506" x2="65.848" y2="262.244" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<polygon points="95.07,193.13 83.26,195.21 83.26,176.73 95.07,174.65" fill="#e0e0e0" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<polygon points="92.25,185.71 90.89,185.86 89.51,185.82 88.17,185.62 86.95,185.24 85.91,184.72 85.09,184.08 84.54,183.34 84.29,182.56 84.34,181.76 84.70,180.99 85.35,180.29 86.26,179.68 87.37,179.21 88.64,178.89 90.00,178.75 91.38,178.78 92.71,178.99 93.93,179.36 94.98,179.88 95.80,180.53 96.35,181.26 96.60,182.04 96.55,182.84 96.18,183.61 95.54,184.32 94.63,184.92 93.52,185.39 92.25,185.71" fill="#e6e6e6" stroke="none"/>
+<polyline points="92.248,195.790 90.890,195.937 89.508,195.905 88.174,195.697 86.954,195.322 85.908,194.800 85.090,194.157 84.541,193.424 84.287,192.640 84.342,191.842 84.703,191.072 85.352,190.367 86.256,189.764 87.371,189.292 88.639,188.974 89.998,188.828 91.379,188.860 92.713,189.068 93.933,189.443 94.979,189.965 95.797,190.608 96.347,191.340 96.600,192.125 96.545,192.922 96.184,193.693 95.535,194.397 94.631,195.001 93.517,195.473 92.248,195.790" fill="none" stroke="#000" stroke-width="0.275" stroke-linejoin="round"/>
+<polyline points="92.248,185.710 90.890,185.857 89.508,185.825 88.174,185.617 86.954,185.242 85.908,184.720 85.090,184.077 84.541,183.344 84.287,182.560 84.342,181.762 84.703,180.992 85.352,180.287 86.256,179.684 87.371,179.212 88.639,178.894 89.998,178.748 91.379,178.780 92.713,178.988 93.933,179.363 94.979,179.885 95.797,180.528 96.347,181.260 96.600,182.045 96.545,182.842 96.184,183.613 95.535,184.317 94.631,184.921 93.517,185.393 92.248,185.710" fill="none" stroke="#000" stroke-width="0.5" stroke-linejoin="round"/>
+<line x1="92.248" y1="195.790" x2="92.248" y2="185.710" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<line x1="88.639" y1="188.974" x2="88.639" y2="178.894" stroke="#000" stroke-width="0.5" stroke-linecap="butt"/>
+<polygon points="82.59,169.55 70.78,171.64 70.78,153.16 82.59,151.07" fill="#e0e0e0" stroke="#000" stroke-width="0.45" opacity="1.0" stroke-linejoin="round"/>
+<line x1="79.916" y1="95.852" x2="85.932" y2="107.212" stroke="#000" stroke-width="0.45" stroke-linecap="butt"/>
+<line x1="82.924" y1="101.532" x2="112.924" y2="61.532" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="82.92" cy="101.53" r="0.5" fill="#000"/>
+<text x="113.92" y="62.53" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">UHF 偶极天线×2(卷收)</text>
+<line x1="100.000" y1="83.830" x2="150.000" y2="57.830" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="100.00" cy="83.83" r="0.5" fill="#000"/>
+<text x="151.00" y="58.83" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">+Z 端板 MEC-101</text>
+<line x1="100.000" y1="225.160" x2="36.000" y2="273.160" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="100.00" cy="225.16" r="0.5" fill="#000"/>
+<text x="35.00" y="274.16" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">−Z 端板 MEC-102
+(分离开关/RBF)</text>
+<line x1="68.751" y1="171.732" x2="110.751" y2="157.732" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="68.75" cy="171.73" r="0.5" fill="#000"/>
+<text x="111.75" y="158.73" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">导轨 MEC-104×4
+8.5×8.5×340.5</text>
+<line x1="90.444" y1="187.342" x2="132.444" y2="141.342" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="90.44" cy="187.34" r="0.5" fill="#000"/>
+<text x="133.44" y="142.34" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">鱼眼相机×2(±X 对置)
+镜头外伸 ≤6.0</text>
+<line x1="68.751" y1="230.532" x2="102.751" y2="270.532" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<circle cx="68.75" cy="230.53" r="0.5" fill="#000"/>
+<text x="103.75" y="271.53" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">±Y 太阳电池片 20 片/面</text>
+<line x1="30.000" y1="46.000" x2="30.000" y2="189.010" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 30.00 46.00 L 29.30 48.20 L 30.70 48.20 Z" fill="#000"/>
+<path d="M 30.00 189.01 L 29.30 186.81 L 30.70 186.81 Z" fill="#000"/>
+<text x="28.90" y="117.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.4" text-anchor="middle" font-weight="normal" fill="#000" transform="rotate(-90 28.90 117.50)">340.5</text>
+<line x1="63.628" y1="240.000" x2="100.000" y2="240.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<path d="M 63.63 240.00 L 65.83 239.30 L 65.83 240.70 Z" fill="#000"/>
+<path d="M 100.00 240.00 L 97.80 239.30 L 97.80 240.70 Z" fill="#000"/>
+<text x="81.81" y="238.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">100</text>
+<text x="222.00" y="50.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="start" font-weight="bold" fill="#000">整星主要技术指标</text>
+<text x="222.00" y="55.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">构型:3U 立方星 100.0×100.0×340.5 mm(CDS Rev.14)</text>
+<text x="222.00" y="60.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">任务:双鱼眼侧面对置 360°×180° 全景成像</text>
+<text x="222.00" y="65.90" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">轨道:500 km 太阳同步轨道(SSO)</text>
+<text x="222.00" y="71.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">全景输出:5760×2880 equirectangular</text>
+<text x="222.00" y="76.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">视频:4K30(CAM1)+2.8K30(CAM2),双机拍照 4056×3040</text>
+<text x="222.00" y="81.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">传感器:2×Sony IMX477(1/2.3″, 1.55 µm)+f1.4/F2.4 鱼眼 195°</text>
+<text x="222.00" y="87.10" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">数传:UHF 437 MHz GFSK 57.6 kbps(裕量≥10.7 dB)</text>
+<text x="222.00" y="92.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">电源:太阳阵 72 片 Maxeon Gen3,BOL 18.4 W;电池 2S2P 49 Wh</text>
+<text x="222.00" y="97.70" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">总质量:2.83 kg(上限 4.8 kg,质心 z=147 mm)</text>
+<text x="222.00" y="103.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">姿态:B-dot 消旋 + 磁强计/太阳矢量粗定姿 ±5°,磁力矩器×3</text>
+<text x="222.00" y="108.30" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="start" font-weight="normal" fill="#000">成本:硬件 ≈¥2.07 万,整星 ≈¥4.57 万(不含发射)</text>
+<text x="222.00" y="141.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="start" font-weight="bold" fill="#000">图例(线型与画法)</text>
+<line x1="222.000" y1="146.000" x2="252.000" y2="146.000" stroke="#000" stroke-width="0.7" stroke-linecap="butt"/>
+<text x="256.00" y="147.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">粗实线:可见轮廓</text>
+<line x1="222.000" y1="152.000" x2="252.000" y2="152.000" stroke="#000" stroke-width="0.22" stroke-linecap="butt"/>
+<text x="256.00" y="153.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">细实线:尺寸线/引线</text>
+<line x1="222.000" y1="158.000" x2="252.000" y2="158.000" stroke="#000" stroke-width="0.25" stroke-dasharray="2,1.2" stroke-linecap="butt"/>
+<text x="256.00" y="159.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">虚线:不可见轮廓</text>
+<line x1="222.000" y1="164.000" x2="252.000" y2="164.000" stroke="#000055" stroke-width="0.2" stroke-dasharray="8,1.5,1.5,1.5" stroke-linecap="butt"/>
+<text x="256.00" y="165.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">点划线:中心线/轴线</text>
+<text x="222.00" y="186.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" text-anchor="start" font-weight="bold" fill="#000">图纸目录(本册 22 张)</text>
+<text x="222.00" y="191.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-000 封面/指标/目录</text>
+<text x="222.00" y="195.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-001 整星三视图</text>
+<text x="222.00" y="199.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-002 Z向布局剖视</text>
+<text x="222.00" y="204.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-003 整星装配爆炸图</text>
+<text x="222.00" y="208.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-101 +Z端板 MEC-101</text>
+<text x="222.00" y="213.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-102 −Z端板 MEC-102</text>
+<text x="222.00" y="217.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-103 侧板-相机面103A</text>
+<text x="222.00" y="221.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-104 侧板-普通面103B</text>
+<text x="222.00" y="226.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-105 导轨 MEC-104</text>
+<text x="222.00" y="230.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-106 隔板+压线卡105/110</text>
+<text x="222.00" y="235.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-107 电池支架106</text>
+<text x="314.00" y="191.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-108 相机镜座107</text>
+<text x="314.00" y="195.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-109 相机支架+传感板</text>
+<text x="314.00" y="199.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-110 开关/天线支架108/109</text>
+<text x="314.00" y="204.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ASM-111 分离/RBF机构</text>
+<text x="314.00" y="208.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">PLD-301 双鱼眼相机模组</text>
+<text x="314.00" y="213.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">BAT-401 电池舱组件</text>
+<text x="314.00" y="217.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ELE-402 电气堆栈装配</text>
+<text x="314.00" y="221.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ELE-403 四板器件布局</text>
+<text x="314.00" y="226.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">SOL-501 太阳阵铺贴图</text>
+<text x="314.00" y="230.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">ANT-601 天线系统</text>
+<text x="314.00" y="235.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.65" text-anchor="start" font-weight="normal" fill="#000">WIR-701 线束/紧固件/工艺</text>
+</svg>

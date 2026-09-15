@@ -1,0 +1,10 @@
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+# 办公临时文件
+~$*.docx
+~$*.xlsx
+*.tmp
+# 本机工作文件
+*.html

@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0">
+<rect width="420.0" height="297.0" fill="#ffffff"/>
+<rect x="8" y="8" width="404.0" height="281.0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="12" y="12" width="396.0" height="273.0" fill="none" stroke="#000" stroke-width="0.9"/>
+<rect x="202.0" y="245.0" width="206.0" height="40.0" fill="#fff" stroke="#000" stroke-width="0.9"/>
+<line x1="326.0" y1="245.0" x2="326.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="362.0" y1="245.0" x2="362.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="386.0" y1="245.0" x2="386.0" y2="285.0" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="258.3" x2="408.0" y2="258.3" stroke="#000" stroke-width="0.5"/>
+<line x1="202.0" y1="271.6" x2="408.0" y2="271.6" stroke="#000" stroke-width="0.5"/>
+<text x="205.0" y="253.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.4" text-anchor="start" font-weight="bold" fill="#000">PANO-3U 双鱼眼全景立方星</text>
+<text x="205.0" y="257.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.8" text-anchor="start" font-weight="normal" fill="#000">(3U CubeSat · 500km SSO 全景成像)</text>
+<text x="344.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图号</text>
+<text x="344.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.0" text-anchor="middle" font-weight="bold" fill="#000">WIR-701</text>
+<text x="374.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">比例</text>
+<text x="374.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="397.0" y="249.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">版本</text>
+<text x="397.0" y="256.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">B (v4评审版)</text>
+<text x="205.0" y="264.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="4.6" text-anchor="start" font-weight="bold" fill="#000">线束走向 / 紧固件图册 / 装配工艺</text>
+<text x="205.0" y="269.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="start" font-weight="normal" fill="#000">电源 22AWG / 信号 28AWG(M22759) · RF:RG178 · 相机 FPC 22P · 连接器全带锁(JST XH/SH)</text>
+<text x="344.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">材料</text>
+<text x="344.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.0" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="374.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">数量</text>
+<text x="374.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">—</text>
+<text x="397.0" y="262.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">页次</text>
+<text x="397.0" y="269.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.2" text-anchor="middle" font-weight="normal" fill="#000">22/22</text>
+<text x="344.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">设计规范</text>
+<text x="344.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">CDS Rev.14</text>
+<text x="374.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">日期</text>
+<text x="374.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">2026-09</text>
+<text x="397.0" y="275.8" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" fill="#444">图幅</text>
+<text x="397.0" y="283.0" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.9" text-anchor="middle" font-weight="normal" fill="#000">A3</text>
+<text x="16" y="22" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="6" font-weight="bold" fill="#000">WIR-701　线束走向 / 紧固件图册 / 装配工艺</text>
+<text x="16" y="28.5" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.6" fill="#000">电源 22AWG / 信号 28AWG(M22759) · RF:RG178 · 相机 FPC 22P · 连接器全带锁(JST XH/SH)</text>
+<text x="40.00" y="54.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="start" font-weight="bold" fill="#000">线束走向拓扑(W1–W14)</text>
+<line x1="56.000" y1="74.000" x2="92.000" y2="87.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="76.00" y="80.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W1</text>
+<line x1="56.000" y1="100.000" x2="92.000" y2="87.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="76.00" y="93.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W2</text>
+<line x1="112.000" y1="118.000" x2="92.000" y2="87.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="104.00" y="102.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W13</text>
+<line x1="56.000" y1="126.000" x2="92.000" y2="87.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="76.00" y="106.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W3</text>
+<line x1="112.000" y1="87.000" x2="136.000" y2="126.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="126.00" y="106.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W5</text>
+<line x1="112.000" y1="87.000" x2="92.000" y2="118.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="104.00" y="102.50" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W6</text>
+<line x1="156.000" y1="74.000" x2="160.000" y2="100.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="160.00" y="87.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W12</text>
+<line x1="180.000" y1="100.000" x2="200.000" y2="74.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="192.00" y="87.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W7</text>
+<line x1="156.000" y1="74.000" x2="136.000" y2="126.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="148.00" y="100.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W14</text>
+<line x1="156.000" y1="126.000" x2="200.000" y2="112.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="180.00" y="119.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W8</text>
+<line x1="156.000" y1="126.000" x2="200.000" y2="138.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="180.00" y="132.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W9</text>
+<line x1="156.000" y1="74.000" x2="92.000" y2="144.000" stroke="#000" stroke-width="0.3" stroke-linecap="butt"/>
+<text x="126.00" y="109.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.0" text-anchor="start" font-weight="normal" fill="#333">W11</text>
+<rect x="36.000" y="70.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="46.00" y="75.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">SA±Y</text>
+<rect x="36.000" y="96.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="46.00" y="101.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">SA±X</text>
+<rect x="92.000" y="83.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="102.00" y="88.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">EPS</text>
+<rect x="92.000" y="114.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="102.00" y="119.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">BAT</text>
+<rect x="36.000" y="122.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="46.00" y="127.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">SW1-3</text>
+<rect x="136.000" y="70.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="146.00" y="75.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">OBC</text>
+<rect x="160.000" y="96.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="170.00" y="101.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">COMM</text>
+<rect x="136.000" y="122.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="146.00" y="127.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">CM4</text>
+<rect x="200.000" y="108.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="210.00" y="113.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">CAM1</text>
+<rect x="200.000" y="134.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="210.00" y="139.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">CAM2</text>
+<rect x="200.000" y="70.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="210.00" y="75.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">ANT</text>
+<rect x="92.000" y="140.000" width="20.000" height="8.000" fill="none" stroke="#000" stroke-width="0.45"/>
+<text x="102.00" y="145.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="middle" font-weight="normal" fill="#000">MAG×3</text>
+<text x="40.00" y="160.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">布线规则:电源/信号/RF 分束 ≥10mm;每 80mm 压线卡 MEC-110;</text>
+<text x="40.00" y="165.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">连接器插好后点 GD414 应力释放;FPC 贴铜箔屏蔽。</text>
+<text x="262.00" y="52.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="start" font-weight="bold" fill="#000">紧固件图册(共 ≈150 颗)</text>
+<rect x="266.000" y="55.400" width="3.000" height="5.200" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="269.000" y="57.000" width="12.000" height="2.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="59.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F1 M3×8 圆柱头</text>
+<text x="328.00" y="59.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">端板↔导轨端面 ×8</text>
+<polyline points="266.000,62.400 269.500,64.000 269.500,66.000 266.000,67.600 266.000,62.400" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<rect x="269.500" y="64.200" width="11.500" height="1.600" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="66.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F2 M3×6 沉头</text>
+<text x="328.00" y="66.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">侧板↔导轨 ×40 齐平</text>
+<rect x="266.000" y="70.600" width="3.200" height="2.800" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="269.200" y="71.000" width="11.800" height="2.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="73.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F3 M3×6 盘头+弹垫</text>
+<text x="328.00" y="73.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">堆栈/隔板 ×20</text>
+<rect x="266.000" y="77.600" width="3.200" height="2.800" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="269.200" y="78.000" width="11.800" height="2.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="80.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F7 M2.5×8 盘头</text>
+<text x="328.00" y="80.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">传感器板 ×8</text>
+<polyline points="266.000,83.400 269.500,85.000 269.500,87.000 266.000,88.600 266.000,83.400" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<rect x="269.500" y="85.200" width="11.500" height="1.600" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="87.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F8 M2×6 沉头</text>
+<text x="328.00" y="87.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">镜座↔支架 ×8</text>
+<rect x="266.000" y="91.600" width="3.200" height="2.800" fill="none" stroke="#000" stroke-width="0.4"/>
+<rect x="269.200" y="92.000" width="11.800" height="2.000" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="94.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F14 M2×8 盘头</text>
+<text x="328.00" y="94.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">支架↔侧板 ×8</text>
+<polyline points="266.000,97.400 269.500,99.000 269.500,101.000 266.000,102.600 266.000,97.400" fill="none" stroke="#000" stroke-width="0.4" stroke-linejoin="round"/>
+<rect x="269.500" y="99.200" width="11.500" height="1.600" fill="none" stroke="#000" stroke-width="0.4"/>
+<text x="284.00" y="101.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.7" text-anchor="start" font-weight="normal" fill="#000">F10 M2×5 沉头</text>
+<text x="328.00" y="101.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">天线/开关座 ×6</text>
+<text x="266.00" y="109.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">铜柱:F4 M3×15(CM4层)×8 / F5 M3×12 ×8 / F6 M3×10 ×4</text>
+<text x="266.00" y="114.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">垫圈:F11 平垫×40 / F12 弹垫×28 / F13 尼龙锁紧螺母×8</text>
+<text x="266.00" y="119.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="normal" fill="#000">胶:G1 Loctite243 / G2 401 / G3 GD414 / G4 导热脂 / G5 3M966</text>
+<text x="262.00" y="140.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="start" font-weight="bold" fill="#000">装配工艺(A1–A12)</text>
+<text x="262.00" y="145.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A1 导轨↔端板(F1,1.0N·m,对角分次)  A2 侧板↔导轨(F2,沉头齐平)</text>
+<text x="262.00" y="149.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A3 堆栈逐层装配(F3+F4/F5/F6 铜柱)   A4 MEC-105 隔板装夹</text>
+<text x="262.00" y="154.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A5 电池组+BMS+加热装入 MEC-106 抱箍  A6 相机调焦→锁胶静置 24h→复测</text>
+<text x="262.00" y="158.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A7 相机组件装侧板(F14/F8/F7)      A8 端板合拢终拧(F1 1.0N·m)</text>
+<text x="262.00" y="163.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A9 天线/开关支架安装(F10)         A10 太阳阵贴片→绝缘测试 ≥10MΩ</text>
+<text x="262.00" y="168.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">A11 线束敷设+压线卡+应力释放        A12 称重≤2.9kg / 质心 147±10mm 验收</text>
+<text x="262.00" y="176.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">检验:导轨直线度 CMM 抽检;端板孔位投影仪全检;</text>
+<text x="262.00" y="181.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.6" text-anchor="start" font-weight="normal" fill="#000">振动 GEVS 14.1gRMS 后首阶频率衰减&lt;5%;热真空 −20~+50°C 四循环。</text>
+<text x="40.00" y="194.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="3.5" text-anchor="start" font-weight="bold" fill="#000">线束表(W1–W14)</text>
+<text x="40.00" y="200.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="bold" fill="#000">编号</text>
+<text x="54.00" y="200.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="bold" fill="#000">走向</text>
+<text x="136.00" y="200.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.5" text-anchor="start" font-weight="bold" fill="#000">规格</text>
+<line x1="40.000" y1="201.600" x2="180.000" y2="201.600" stroke="#000" stroke-width="0.35" stroke-linecap="butt"/>
+<text x="40.00" y="206.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W1</text>
+<text x="54.00" y="206.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">太阳阵 ±Y → EPS(J4/J5)</text>
+<text x="136.00" y="206.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">2×JST-XH2P 22AWG</text>
+<text x="40.00" y="210.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W2</text>
+<text x="54.00" y="210.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">太阳阵 ±X → EPS(J6/J7)</text>
+<text x="136.00" y="210.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">2×JST-XH2P 22AWG</text>
+<text x="40.00" y="214.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W3</text>
+<text x="54.00" y="214.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">分离开关链 SW1-2-3 → EPS(J2)</text>
+<text x="136.00" y="214.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">28AWG×2 常闭串联</text>
+<text x="40.00" y="219.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W4</text>
+<text x="54.00" y="219.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">RBF 座 → EPS(J3)</text>
+<text x="136.00" y="219.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">28AWG×2</text>
+<text x="40.00" y="223.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W5</text>
+<text x="54.00" y="223.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">EPS → CM4 载板 5V(J8)</text>
+<text x="136.00" y="223.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">22AWG×2 JST-XH2P</text>
+<text x="40.00" y="228.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W6</text>
+<text x="54.00" y="228.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">EPS → 加热片×2+温控(J9)</text>
+<text x="136.00" y="228.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">JST-SH6P</text>
+<text x="40.00" y="232.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W7</text>
+<text x="54.00" y="232.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">通信板 SMA → 天线座</text>
+<text x="136.00" y="232.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">RG178 同轴</text>
+<text x="40.00" y="236.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W8</text>
+<text x="54.00" y="236.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">CAM0 FPC(CM4→相机1)</text>
+<text x="136.00" y="236.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">22P-0.5mm 300mm</text>
+<text x="40.00" y="241.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W9</text>
+<text x="54.00" y="241.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">CAM1 FPC(CM4→相机2)</text>
+<text x="136.00" y="241.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">22P-0.5mm 200mm</text>
+<text x="40.00" y="245.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W10</text>
+<text x="54.00" y="245.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">DS18B20×6 1-Wire 总线</text>
+<text x="136.00" y="245.60" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">28AWG×3 菊花链</text>
+<text x="40.00" y="250.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W11</text>
+<text x="54.00" y="250.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">磁力矩器×3 → OBC(DRV8837)</text>
+<text x="136.00" y="250.00" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">28AWG×6</text>
+<text x="40.00" y="254.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W12</text>
+<text x="54.00" y="254.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">OBC↔通信板 UART/SPI</text>
+<text x="136.00" y="254.40" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">28AWG×6</text>
+<text x="40.00" y="258.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W13</text>
+<text x="54.00" y="258.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">电池组 → BMS → 开关链</text>
+<text x="136.00" y="258.80" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">22AWG×2</text>
+<text x="40.00" y="263.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">W14</text>
+<text x="54.00" y="263.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">堆栈总线 J1 2×20P×4</text>
+<text x="136.00" y="263.20" font-family="'Segoe UI','Microsoft YaHei','SimHei',sans-serif" font-size="2.4" text-anchor="start" font-weight="normal" fill="#000">板间直插针排</text>
+</svg>
